@@ -1,71 +1,17 @@
 #EXTM3U
-#EXTINF:-1,HAYAT PLUS
-http://31.209.18.19:8000/play/a00w
-#EXTINF:-1,HRT-TV3
-http://31.209.18.19:8000/play/a01k
-#EXTINF:-1,BN BIH
-http://31.209.18.19:8000/play/a013
-#EXTINF:-1,Kopernikus
-http://31.209.18.19:8000/play/a01n
-#EXTINF:-1,HAYAT HD
-http://31.209.18.19:8000/play/a00v
-#EXTINF:-1,EXP histori
-http://31.209.18.19:8000/play/a02a
-#EXTINF:-1,Svet Plus
-http://31.209.18.19:8000/play/a01a
-#EXTINF:-1,RTRS
-http://31.209.18.19:8000/play/a014
-#EXTINF:-1,PRO TV Int
-http://31.209.18.19:8000/play/a00e
-#EXTINF:-1,Disney Channel
-http://31.209.18.19:8000/play/a01s
-#EXTINF:-1,RTRS plus
-http://31.209.18.19:8000/play/a010
-#EXTINF:-1,HAYAT FOLK
-http://31.209.18.19:8000/play/a00x
-#EXTINF:-1,Cufo TV
-http://31.209.18.19:8000/play/a029
-#EXTINF:-1,SS-6 HD
-http://31.209.18.19:8000/play/a028
-#EXTINF:-1,BN Music
-http://31.209.18.19:8000/play/a00y
-#EXTINF:-1,Posavina TV
-http://31.209.18.19:8000/play/a00b
-#EXTINF:-1,RTK-1
-http://31.209.18.19:8000/play/a02b
-#EXTINF:-1,Al Jazeera Balkans HD
-http://31.209.18.19:8000/play/a00g
-#EXTINF:-1,HRT-TV1
-http://31.209.18.19:8000/play/a01i
-#EXTINF:-1,Duga TV
-http://31.209.18.19:8000/play/a019
-#EXTINF:-1,HRT-TV2
-http://31.209.18.19:8000/play/a01j
-#EXTINF:-1,Bang Bang
-http://31.209.18.19:8000/play/a026
-#EXTINF:-1,KCN
-http://31.209.18.19:8000/play/a01b
-#EXTINF:-1,Top News
-http://31.209.18.19:8000/play/a022
-#EXTINF:-1,Stinet
-http://31.209.18.19:8000/play/a025
-#EXTINF:-1,BN SAT
-http://31.209.18.19:8000/play/a012
-#EXTINF:-1,TVSH Tokesor
-http://31.209.18.19:8000/play/a027
-#EXTINF:-1,HAYAT MUSIC
-http://31.209.18.19:8000/play/a00z
-#EXTINF:-1,HAYATOVCI
-http://31.209.18.19:8000/play/a011
-#EXTINF:-1,RTS SAT
-http://31.209.18.19:8000/play/a01m
-#EXTINF:-1,Grand
-http://31.209.18.19:8000/play/a01w
-#EXTINF:-1,OTV Valentino
-http://31.209.18.19:8000/play/a018
-#EXTINF:-1,EXP shkence
-http://31.209.18.19:8000/play/a024
-#EXTINF:-1,HRT-TV4
-http://31.209.18.19:8000/play/a01l
-#EXTINF:-1,OBN
-http://31.209.18.19:8000/play/a00c
+#EXTINF:-1,Candyman
+http://109.237.156.125:1234/udp/239.1.20.39:1234
+#EXTINF:-1,PlayBoy
+http://109.237.156.125:1234/udp/239.1.6.39:1234
+#EXTINF:-1,Русская ночь
+http://109.237.156.125:1234/udp/239.1.6.32:1234
+#EXTINF:-1,O-la-la
+http://109.237.156.125:1234/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://109.237.156.125:1234/udp/239.1.6.35:1234
+#EXTINF:-1,Ночной Клуб
+http://109.237.156.125:1234/udp/239.1.6.33:1234
+#EXTINF:-1,Blue Hustler
+http://109.237.156.125:1234/udp/239.1.6.36:1234
+#EXTINF:-1,Brazzers TV
+http://109.237.156.125:1234/udp/239.1.6.40:1234
