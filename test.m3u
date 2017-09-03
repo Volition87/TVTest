@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="=====EX YU=====" tvg-logo="" group-title="EX-YU",===== EX-YU ===== - ===== EX-YU ===== 
 #EXTINF:-1,FTV
 http://185.152.65.132:8080/ftv/mpegts
 #EXTINF:-1,BHT 1
