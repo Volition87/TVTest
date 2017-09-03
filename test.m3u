@@ -9,3 +9,7 @@ http://185.152.65.132:8080/arena3/mpegts
 http://185.152.65.132:8080/arena4/mpegts
 #EXTINF:-1,Eurosport
 http://185.152.65.132:8080/eurosport1/mpegts
+#EXTINF:-1,FTV
+http://185.152.65.132:8080/ftv/mpegts
+#EXTINF:-1,BHT 1
+http://185.152.65.132:8080/bht1/mpegts
