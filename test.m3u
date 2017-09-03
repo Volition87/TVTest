@@ -13,3 +13,19 @@ http://185.152.65.132:8080/eurosport1/mpegts
 http://185.152.65.132:8080/ftv/mpegts
 #EXTINF:-1,BHT 1
 http://185.152.65.132:8080/bht1/mpegts
+#EXTINF:-1,Nova TV
+http://185.152.65.132:8080/nova/mpegts
+#EXTINF:-1,HRT 1
+http://185.152.65.132:8080/hrt1/mpegts
+#EXTINF:-1,HRT 2
+http://185.152.65.132:8080/hrt2/mpegts
+#EXTINF:-1,HRT 3
+http://185.152.65.132:8080/hrt3/mpegts
+#EXTINF:-1,SportKlub 1
+http://185.152.65.132:8080/sk1/mpegts
+#EXTINF:-1,SportKlub 2
+http://185.152.65.132:8080/sk2/mpegts
+#EXTINF:-1,SportKlub 3
+http://185.152.65.132:8080/sk3/mpegts
+#EXTINF:-1,SportKlub 4
+http://185.152.65.132:8080/sk4/mpegts
