@@ -9,6 +9,10 @@ http://185.152.65.132:8080/obn/mpegts
 http://185.152.65.132:8080/nova/mpegts
 #EXTINF:-1,Doma TV
 http://185.152.65.132:8080/domatv/mpegts
+#EXTINF:-1,RTL
+http://185.152.65.132:8080/rtl/mpegts
+#EXTINF:-1,RTL 2
+http://185.152.65.132:8080/rtl2/mpegts
 #EXTINF:-1,HRT 1
 http://185.152.65.132:8080/hrt1/mpegts
 #EXTINF:-1,HRT 2
@@ -17,6 +21,10 @@ http://185.152.65.132:8080/hrt2/mpegts
 http://185.152.65.132:8080/hrt3/mpegts
 #EXTINF:-1,B92
 http://185.152.65.132:8080/b92/mpegts
+#EXTINF:-1,PRVA
+http://185.152.65.132:8080/prvatv/mpegts
+#EXTINF:-1,PRVA Plus
+http://185.152.65.132:8080/prvaplus/mpegts
 #EXTINF:-1,Arena 1
 http://185.152.65.132:8080/arena1/mpegts
 #EXTINF:-1,Arena 2
