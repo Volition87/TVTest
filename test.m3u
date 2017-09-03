@@ -32,11 +32,6 @@ http://185.152.65.132:8080/fox/mpegts
 http://185.152.65.132:8080/foxlife/mpegts
 #EXTINF:-1,Fox Crime
 http://185.152.65.132:8080/foxcrime/mpegt
-#EXTINF:-1, Tring History
-http://185.152.65.130:8080/tringhistory/mpegts
-#EXTINF:-1, Tring Planet 
-http://185.152.65.130:8080/tringplanet/mpegts 
-#EXTINF:-1, Tring World http://185.152.65.130:8080/tringworld/mpegts
 #EXTINF:-1 tvg-id="2" tvg-name="===== Sportski =====" tvg-logo="" group-title="Sportski",===== Sportski ===== - ===== Sportski =====
 #EXTINF:-1,Arena 1
 http://185.152.65.132:8080/arena1/mpegts
