@@ -46,7 +46,283 @@ http://185.152.65.132:8080/eurosport1/mpegts
 #EXTINF:-1,SportKlub 1
 http://185.152.65.132:8080/sk1/mpegts
 #EXTINF:-1,SportKlub 2
-http://185.152.65.132:8080/sk2/mpegts
+http://185.152.65.132:8080/sk2/mpegts#EXTINF:-1,EX-YU : BALKANIKA
+http://orbit-iptv.com:2500/live/777787777/777787777/4691.ts
+#EXTINF:-1,EX-YU : Sportal TV HD
+http://orbit-iptv.com:2500/live/777787777/777787777/4701.ts
+#EXTINF:-1,EX-YU:  HRT 2
+http://orbit-iptv.com:2500/live/777787777/777787777/1682.ts
+#EXTINF:-1,EX-YU:  HRT 4
+http://orbit-iptv.com:2500/live/777787777/777787777/1684.ts
+#EXTINF:-1,EX-YU:  Pink Zabava
+http://orbit-iptv.com:2500/live/777787777/777787777/5009.ts
+#EXTINF:-1,EX-YU: 24 Kitchen
+http://orbit-iptv.com:2500/live/777787777/777787777/2218.ts
+#EXTINF:-1,EX-YU: 24 Vesti Mk
+http://orbit-iptv.com:2500/live/777787777/777787777/4989.ts
+#EXTINF:-1,EX-YU: Al Jazeera Balkan
+http://orbit-iptv.com:2500/live/777787777/777787777/4690.ts
+#EXTINF:-1,EX-YU: Alfa TV Mk
+http://orbit-iptv.com:2500/live/777787777/777787777/4988.ts
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://orbit-iptv.com:2500/live/777787777/777787777/6980.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1543.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 SBR
+http://orbit-iptv.com:2500/live/777787777/777787777/1548.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1544.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 SBR
+http://orbit-iptv.com:2500/live/777787777/777787777/1549.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1545.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 SBR
+http://orbit-iptv.com:2500/live/777787777/777787777/1550.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1546.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 SBR
+http://orbit-iptv.com:2500/live/777787777/777787777/1551.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1547.ts
+#EXTINF:-1,Ex-Yu: ARENA SPORT 5 SRB
+http://orbit-iptv.com:2500/live/777787777/777787777/3677.ts
+#EXTINF:-1,EX-YU: AXN Adria
+http://orbit-iptv.com:2500/live/777787777/777787777/6982.ts
+#EXTINF:-1,EX-YU: B92
+http://orbit-iptv.com:2500/live/777787777/777787777/2219.ts
+#EXTINF:-1,EX-YU: B92 Info
+http://orbit-iptv.com:2500/live/777787777/777787777/6983.ts
+#EXTINF:-1,EX-YU: BHT
+http://orbit-iptv.com:2500/live/777787777/777787777/4987.ts
+#EXTINF:-1,EX-YU: BHT 1
+http://orbit-iptv.com:2500/live/777787777/777787777/6986.ts
+#EXTINF:-1,EX-YU: BN
+http://orbit-iptv.com:2500/live/777787777/777787777/4700.ts
+#EXTINF:-1,EX-YU: BN SAT
+http://orbit-iptv.com:2500/live/777787777/777787777/4990.ts
+#EXTINF:-1,EX-YU: Bosna TV 1
+http://orbit-iptv.com:2500/live/777787777/777787777/6987.ts
+#EXTINF:-1,EX-YU: CINEMAX 1
+http://orbit-iptv.com:2500/live/777787777/777787777/1945.ts
+#EXTINF:-1,EX-YU: CINEMAX 2
+http://orbit-iptv.com:2500/live/777787777/777787777/1946.ts
+#EXTINF:-1,EX-YU: CINESTAR ACTION
+http://orbit-iptv.com:2500/live/777787777/777787777/1947.ts
+#EXTINF:-1,EX-YU: CineStar Premier 1
+http://orbit-iptv.com:2500/live/777787777/777787777/1948.ts
+#EXTINF:-1,EX-YU: CineStar Premier 2
+http://orbit-iptv.com:2500/live/777787777/777787777/1949.ts
+#EXTINF:-1,EX-YU: CINESTAR TV
+http://orbit-iptv.com:2500/live/777787777/777787777/1950.ts
+#EXTINF:-1,EX-YU: Comedy Central
+http://orbit-iptv.com:2500/live/777787777/777787777/6989.ts
+#EXTINF:-1,EX-YU: Vinkova
+http://orbit-iptv.com:2500/live/777787777/777787777/6991.ts
+#EXTINF:-1,EX-YU: Discovery Channel
+http://orbit-iptv.com:2500/live/777787777/777787777/5002.ts
+#EXTINF:-1,EX-YU: DM Sat
+http://orbit-iptv.com:2500/live/777787777/777787777/4699.ts
+#EXTINF:-1,EX-YU: Docubox
+http://orbit-iptv.com:2500/live/777787777/777787777/6992.ts
+#EXTINF:-1,EX-YU: Doma TV
+http://orbit-iptv.com:2500/live/777787777/777787777/4698.ts
+#EXTINF:-1,EX-YU: DUGA TV
+http://orbit-iptv.com:2500/live/777787777/777787777/6993.ts
+#EXTINF:-1,EX-YU: Eurosport 1
+http://orbit-iptv.com:2500/live/777787777/777787777/4754.ts
+#EXTINF:-1,EX-YU: Eurosport 2
+http://orbit-iptv.com:2500/live/777787777/777787777/4755.ts
+#EXTINF:-1,EX-YU: Face TV
+http://orbit-iptv.com:2500/live/777787777/777787777/2220.ts
+#EXTINF:-1,EX-YU: Federalna
+http://orbit-iptv.com:2500/live/777787777/777787777/5001.ts
+#EXTINF:-1,EX-YU: Federalna TV
+http://orbit-iptv.com:2500/live/777787777/777787777/6996.ts
+#EXTINF:-1,EX-YU: FIGHTBOX
+http://orbit-iptv.com:2500/live/777787777/777787777/4379.ts
+#EXTINF:-1,EX-YU: Fox Crime
+http://orbit-iptv.com:2500/live/777787777/777787777/4758.ts
+#EXTINF:-1,EX-YU: Fox HD
+http://orbit-iptv.com:2500/live/777787777/777787777/4757.ts
+#EXTINF:-1,EX-YU: Fox Life
+http://orbit-iptv.com:2500/live/777787777/777787777/4689.ts
+#EXTINF:-1,EX-YU: FOX Movies
+http://orbit-iptv.com:2500/live/777787777/777787777/4759.ts
+#EXTINF:-1,EX-YU: Grand TV
+http://orbit-iptv.com:2500/live/777787777/777787777/4760.ts
+#EXTINF:-1,EX-YU: Happy TV
+http://orbit-iptv.com:2500/live/777787777/777787777/2221.ts
+#EXTINF:-1,EX-YU: Hayat BIH
+http://orbit-iptv.com:2500/live/777787777/777787777/4997.ts
+#EXTINF:-1,EX-YU: HAYAT HD
+http://orbit-iptv.com:2500/live/777787777/777787777/2222.ts
+#EXTINF:-1,EX-YU: HAYAT MUSIC
+http://orbit-iptv.com:2500/live/777787777/777787777/2223.ts
+#EXTINF:-1,EX-YU: HAYAT PLUS
+http://orbit-iptv.com:2500/live/777787777/777787777/2224.ts
+#EXTINF:-1,EX-YU: Hayatovci
+http://orbit-iptv.com:2500/live/777787777/777787777/4996.ts
+#EXTINF:-1,EX-YU: HBO 2 SLO
+http://orbit-iptv.com:2500/live/777787777/777787777/6998.ts
+#EXTINF:-1,EX-YU: HBO 3
+http://orbit-iptv.com:2500/live/777787777/777787777/6999.ts
+#EXTINF:-1,EX-YU: HBO ADRIA
+http://orbit-iptv.com:2500/live/777787777/777787777/4692.ts
+#EXTINF:-1,EX-YU: HBO Comedy
+http://orbit-iptv.com:2500/live/777787777/777787777/4693.ts
+#EXTINF:-1,Ex-Yu: HBO HD
+http://orbit-iptv.com:2500/live/777787777/777787777/7000.ts
+#EXTINF:-1,EX-YU: History
+http://orbit-iptv.com:2500/live/777787777/777787777/7002.ts
+#EXTINF:-1,EX-YU: HRT 1
+http://orbit-iptv.com:2500/live/777787777/777787777/1681.ts
+#EXTINF:-1,EX-YU: HRT 3
+http://orbit-iptv.com:2500/live/777787777/777787777/1683.ts
+#EXTINF:-1,EX-YU: ID Discovery
+http://orbit-iptv.com:2500/live/777787777/777787777/7003.ts
+#EXTINF:-1,EX-YU: Istok TV
+http://orbit-iptv.com:2500/live/777787777/777787777/7004.ts
+#EXTINF:-1,EX-YU: Izvorna TV
+http://orbit-iptv.com:2500/live/777787777/777787777/7005.ts
+#EXTINF:-1,EX-YU: Jugoton TV
+http://orbit-iptv.com:2500/live/777787777/777787777/7006.ts
+#EXTINF:-1,EX-YU: Kanal 5 Mk
+http://orbit-iptv.com:2500/live/777787777/777787777/4995.ts
+#EXTINF:-1,EX-YU: Kanal 5 Plus
+http://orbit-iptv.com:2500/live/777787777/777787777/4994.ts
+#EXTINF:-1,EX-YU: KCN 1
+http://orbit-iptv.com:2500/live/777787777/777787777/4378.ts
+#EXTINF:-1,EX-YU: KCN 2
+http://orbit-iptv.com:2500/live/777787777/777787777/4377.ts
+#EXTINF:-1,EX-YU: KCN 3
+http://orbit-iptv.com:2500/live/777787777/777787777/4376.ts
+#EXTINF:-1,EX-YU: Klasik
+http://orbit-iptv.com:2500/live/777787777/777787777/4993.ts
+#EXTINF:-1,EX-YU: Mim TV
+http://orbit-iptv.com:2500/live/777787777/777787777/7008.ts
+#EXTINF:-1,EX-YU: Mini TV
+http://orbit-iptv.com:2500/live/777787777/777787777/7009.ts
+#EXTINF:-1,EX-YU: Minimax/Cinemania
+http://orbit-iptv.com:2500/live/777787777/777787777/7011.ts
+#EXTINF:-1,EX-YU: MTV Adria
+http://orbit-iptv.com:2500/live/777787777/777787777/7013.ts
+#EXTINF:-1,EX-YU: N1 Bosna
+http://orbit-iptv.com:2500/live/777787777/777787777/5003.ts
+#EXTINF:-1,EX-YU: Nat Geo Wild
+http://orbit-iptv.com:2500/live/777787777/777787777/7015.ts
+#EXTINF:-1,EX-YU: National Geographic
+http://orbit-iptv.com:2500/live/777787777/777787777/7016.ts
+#EXTINF:-1,EX-YU: Nickelodeon
+http://orbit-iptv.com:2500/live/777787777/777787777/5004.ts
+#EXTINF:-1,EX-YU: Nova HR
+http://orbit-iptv.com:2500/live/777787777/777787777/2225.ts
+#EXTINF:-1,EX-YU: Nova RS
+http://orbit-iptv.com:2500/live/777787777/777787777/7017.ts
+#EXTINF:-1,EX-YU: OBN
+http://orbit-iptv.com:2500/live/777787777/777787777/4697.ts
+#EXTINF:-1,EX-YU: Otv Valentino
+http://orbit-iptv.com:2500/live/777787777/777787777/7018.ts
+#EXTINF:-1,EX-YU: Ping FOLK 1 TV
+http://orbit-iptv.com:2500/live/777787777/777787777/2869.ts
+#EXTINF:-1,EX-YU: Pink
+http://orbit-iptv.com:2500/live/777787777/777787777/5005.ts
+#EXTINF:-1,EX-YU: PINK 1 (reserve)
+http://orbit-iptv.com:2500/live/777787777/777787777/7049.ts
+#EXTINF:-1,EX-YU: PINK 2
+http://orbit-iptv.com:2500/live/777787777/777787777/1189.ts
+#EXTINF:-1,EX-YU: PINK 3
+http://orbit-iptv.com:2500/live/777787777/777787777/1188.ts
+#EXTINF:-1,EX-YU: PINK ACTION
+http://orbit-iptv.com:2500/live/777787777/777787777/1187.ts
+#EXTINF:-1,EX-YU: Pink Bh
+http://orbit-iptv.com:2500/live/777787777/777787777/5006.ts
+#EXTINF:-1,EX-YU: Pink Comedy
+http://orbit-iptv.com:2500/live/777787777/777787777/730.ts
+#EXTINF:-1,EX-YU: PINK CRIME & MISTERY
+http://orbit-iptv.com:2500/live/777787777/777787777/1186.ts
+#EXTINF:-1,EX-YU: Pink Crime & Mystery
+http://orbit-iptv.com:2500/live/777787777/777787777/7050.ts
+#EXTINF:-1,EX-YU: Pink Extra
+http://orbit-iptv.com:2500/live/777787777/777787777/7052.ts
+#EXTINF:-1,EX-YU: Pink Film
+http://orbit-iptv.com:2500/live/777787777/777787777/1184.ts
+#EXTINF:-1,EX-YU: Pink Folk
+http://orbit-iptv.com:2500/live/777787777/777787777/7053.ts
+#EXTINF:-1,EX-YU: Pink Folk 2
+http://orbit-iptv.com:2500/live/777787777/777787777/5007.ts
+#EXTINF:-1,EX-YU: PINK HOROR
+http://orbit-iptv.com:2500/live/777787777/777787777/726.ts
+#EXTINF:-1,EX-YU: Pink Horror
+http://orbit-iptv.com:2500/live/777787777/777787777/7055.ts
+#EXTINF:-1,EX-YU: PINK KIDS
+http://orbit-iptv.com:2500/live/777787777/777787777/725.ts
+#EXTINF:-1,EX-YU: Pink Kuvar
+http://orbit-iptv.com:2500/live/777787777/777787777/7057.ts
+#EXTINF:-1,EX-YU: Pink M
+http://orbit-iptv.com:2500/live/777787777/777787777/1181.ts
+#EXTINF:-1,EX-YU: Pink Movies
+http://orbit-iptv.com:2500/live/777787777/777787777/7058.ts
+#EXTINF:-1,EX-YU: Pink Music
+http://orbit-iptv.com:2500/live/777787777/777787777/7059.ts
+#EXTINF:-1,EX-YU: Pink Music 2
+http://orbit-iptv.com:2500/live/777787777/777787777/7060.ts
+#EXTINF:-1,EX-YU: Pink Pedia
+http://orbit-iptv.com:2500/live/777787777/777787777/7061.ts
+#EXTINF:-1,EX-YU: PINK PLUS
+http://orbit-iptv.com:2500/live/777787777/777787777/723.ts
+#EXTINF:-1,EX-YU: PINK PREMIUM
+http://orbit-iptv.com:2500/live/777787777/777787777/722.ts
+#EXTINF:-1,EX-YU: Pink Reality
+http://orbit-iptv.com:2500/live/777787777/777787777/5008.ts
+#EXTINF:-1,EX-YU: PINK ROMANCE
+http://orbit-iptv.com:2500/live/777787777/777787777/1180.ts
+#EXTINF:-1,EX-YU: PINK SCI-FI & FANTASY
+http://orbit-iptv.com:2500/live/777787777/777787777/720.ts
+#EXTINF:-1,EX-YU: PINK SOAP
+http://orbit-iptv.com:2500/live/777787777/777787777/719.ts
+#EXTINF:-1,EX-YU: Pink Super Kids
+http://orbit-iptv.com:2500/live/777787777/777787777/7064.ts
+#EXTINF:-1,EX-YU: PINK THRILLER
+http://orbit-iptv.com:2500/live/777787777/777787777/718.ts
+#EXTINF:-1,EX-YU: Pink Western
+http://orbit-iptv.com:2500/live/777787777/777787777/717.ts
+#EXTINF:-1,EX-YU: PINK WORLD
+http://orbit-iptv.com:2500/live/777787777/777787777/716.ts
+#EXTINF:-1,EX-YU: Pink Zabava
+http://orbit-iptv.com:2500/live/777787777/777787777/7065.ts
+#EXTINF:-1,EX-YU: PinkBiH
+http://orbit-iptv.com:2500/live/777787777/777787777/1178.ts
+#EXTINF:-1,EX-YU: Prva
+http://orbit-iptv.com:2500/live/777787777/777787777/4756.ts
+#EXTINF:-1,EX-YU: PRVA PLUS
+http://orbit-iptv.com:2500/live/777787777/777787777/2229.ts
+#EXTINF:-1,EX-YU: RTL
+http://orbit-iptv.com:2500/live/777787777/777787777/4694.ts
+#EXTINF:-1,EX-YU: RTL 2
+http://orbit-iptv.com:2500/live/777787777/777787777/4695.ts
+#EXTINF:-1,EX-YU: RTL pASSION
+http://orbit-iptv.com:2500/live/777787777/777787777/7043.ts
+#EXTINF:-1,EX-YU: RTL Living
+http://orbit-iptv.com:2500/live/777787777/777787777/4696.ts
+#EXTINF:-1,EX-YU: RTRS
+http://orbit-iptv.com:2500/live/777787777/777787777/2226.ts
+#EXTINF:-1,EX-YU: RTS 1
+http://orbit-iptv.com:2500/live/777787777/777787777/2227.ts
+#EXTINF:-1,EX-YU: RTS 2
+http://orbit-iptv.com:2500/live/777787777/777787777/2228.ts
+#EXTINF:-1,EX-YU: RTS HD
+http://orbit-iptv.com:2500/live/777787777/777787777/7045.ts
+#EXTINF:-1,EX-YU: Sandzak TV
+http://orbit-iptv.com:2500/live/777787777/777787777/7019.ts
+#EXTINF:-1,EX-YU: Sitel 3 Mk
+http://orbit-iptv.com:2500/live/777787777/777787777/5000.ts
+#EXTINF:-1,EX-YU: Sitel Tv Mk
+http://orbit-iptv.com:2500/live/777787777/777787777/4999.ts
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://orbit-iptv.com:2500/live/777787777/777787777/1967.ts
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://orbit-iptv.com:2500/live/777787777/777787777/1968.ts
+#EXTINF:-1,EX-YU
 #EXTINF:-1,SportKlub 3
 http://185.152.65.132:8080/sk3/mpegts
 #EXTINF:-1,SportKlub 4
