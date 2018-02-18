@@ -76,12 +76,6 @@ http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
 #EXTINF:-1,Dream 1 AR
 http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=UAE Group=
-http://....
 #EXTINF:-1,Dubai TV
 http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b750000.m3u8
 #EXTINF:-1,Dubai Drama
@@ -180,11 +174,6 @@ http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/gmswf.m3u8?v=155
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=sama_dubai&t=ar
 #EXTINF:-1,Alaan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/gmswf.m3u8?v=1558393494
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=MOROCO Group=
-http://...
 #EXTINF:-1 tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" ,Al Aoula
 http://95.81.155.40/5958/index.m3u8
 #EXTINF:-1,Alaoula Inter
@@ -203,11 +192,6 @@ http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=almaghribya
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=tamazight
 #EXTINF:-1,Medi1_Med
 http://37.48.80.76/live/myStream/gmswf.m3u8?v=1558393494
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=ALGERIA Group=
-http://...
 #EXTINF:-1,Chourouk TV
 http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
 #EXTINF:-1,Chourouk News
@@ -256,10 +240,6 @@ http://tv-live.echoroukonline.com/echo/EchoroukBenna/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
 #EXTINF:-1,Ennahar_Algerie
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=ennahar_algerie&t=ar
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=EGYPT Group=
-http://....
 #EXTINF:-1,rotanamasr
 http://itats.dynv6.net:1935/live/rotanamasr/playlist.m3u8
 #EXTINF:-1,dmc
@@ -328,10 +308,6 @@ http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_sport&t=ar
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 #EXTINF:-1,Dmc
 http://streaming.i-sat.tv:1935/live/dmc/gmswf.m3u8?v=1558393494
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=IRAQ Group=
-http://...
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_rasheed_tv_iraq_arabic_live_online_free_arabic_channel.png" ,Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" ,Al Sharqiya
@@ -364,11 +340,6 @@ http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8?v=1558393494
 http://stream.joinvisions.net:1935/taglive/taghier/gmswf.m3u8?v=1558393494
 #EXTINF:-1,ANB
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=anb
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=TUNISIA Group=
-http://....
-
 #EXTINF:-1,Tunisia 1
 http://frontend.arabcast.tv/hls/channel10/channel10.m3u8
 #EXTINF:-1,Tunisia 2
@@ -399,11 +370,6 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
 rtmp://wowzacontrol.com:1935/8088?hg=1558492496
 #EXTINF:-1,Elhiwar-ettounsi
 http://frontend.arabcast.tv/hls/channel16/channel16.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SYRIA Group=
-http://...
 #EXTINF:-1,sama syria
 https://cdn.arabcast.tv/hls/channel36/channel36.m3u8
 #EXTINF:-1,syria 
@@ -450,10 +416,6 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=orient
 #EXTINF:-1,nabdsyria
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=LIBANON Group=
-http://...
 #EXTINF:-1,mtv
 http://itats.dynv6.net:1935/live/mtv/playlist.m3u8
 #EXTINF:-1,almayadeen
@@ -490,11 +452,6 @@ http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=aljadeed&t=ar
 #EXTINF:-1,Almayadeen tv
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8?v=1558393494
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=KIDS Group=
-http://...
 #EXTINF:-1,baraem
 http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8?v=1558393494
 #EXTINF:-1,ajyal
@@ -523,10 +480,6 @@ http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/playlist.m3u8
 rtmp://93.95.207.36:9200/livepkgr/livestream2
 #EXTINF:-1,nour kids
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=NEWS Group=
-http://...
 #EXTINF:-1,Al-Jazeera
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index783.m3u8?v=1558393494
 #EXTINF:-1,Al-Arabiya
@@ -547,10 +500,6 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" ,TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=ROTANA Group=
-http://...
 #EXTINF:-1,Rotana aflam
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
 #EXTINF:-1,Rotana cinema
@@ -563,9 +512,6 @@ http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
 http://streaming.i-sat.tv:1935/live/rotanaclip/playlist.m3u8
 #EXTINF:-1,Rotana khaligi
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_khaligi&t=ar
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=JORDAN AND PALESTINE Group=
-http://...
 #EXTINF:-1,Jordan Tv
 https://cdnbis.arabcast.tv/hls/channel11/channel11.m3u8
 #EXTINF:-1,Jordan Deretna
@@ -638,11 +584,6 @@ http://htv.mada.ps:8888/Musawa/Musawa/index.m3u8?v=1558393494
 http://htv.mada.ps:8888/salamtv/salamtv/playlist.m3u8?v=1558393494
 #EXTINF:-1,raya
 http://htv.mada.ps:8888/raya/tv/index.m3u8?v=1558393494
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=ISLAM Group=
-http://...
 #EXTINF:-1,Wesal
 http://live.noorlive.com:1935/wesal/wesal1/gmswf.m3u8?v=1558393494
 #EXTINF:-1,Aljameela_tv
@@ -655,10 +596,6 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8?v=1558393494
 http://live.ezwp.tv/hls-live/livestream/_definst_/liveevent/0664f22e-aa91-443a-bee9-4b9028ebfd93.m3u8?v=1558393494
 #EXTINF:-1,Ayat
 http://m.live.net.sa:1935/live/ayat/gmswf.m3u8?v=1558393494
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SUDAN Group=
-http://...
 #EXTINF:-1,Ashrooq
 rtmp://82.212.74.98:1935/live/7913
 #EXTINF:-1,Tayba TV
@@ -676,10 +613,6 @@ http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/334.jpg" ,afriqia1
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=YEMEN Group=
-http://...
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" ,Yemen TV
 http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
 #EXTINF:-1,Rushd
@@ -694,12 +627,6 @@ rtmp://82.212.74.5:1935/live/7626
 rtmp://82.212.74.3/live/7425
 #EXTINF:-1,Alghadye
 http://livestream-f.akamaihd.net/i/4818613_6145209_lsigebdx5dsb3xuv7lu_1@326493/master.m3u8?__b__=446&dw=100&hdnea=st=1507560169~exp=1507561969~acl=/i/4818613_6145209_lsigebdx5dsb3xuv7lu_1@326493/*~hmac=a0bb211621bd5e01352882618aa9eb7a39f604842060bbec368ecfde32a7b07a&__a__=off
-
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=ARAB SPORTS Group=
-http://...
 #EXTINF:-1,Alkass1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&
 #EXTINF:-1,Alkass2
@@ -724,10 +651,6 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport
 http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
 #EXTINF:-1,Arriadia Maroc
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=LIBYA Group=
-http://...
 #EXTINF:-1  ,Libya
 https://5925eaffb8639.streamlock.net/live/livestream/playlist.m3u8
 #EXTINF:-1  ,Libya one
@@ -754,12 +677,6 @@ http://streaming.i-sat.tv:1935/live/libyaelwatan/gmswf.m3u8?v=1558393494
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
 #EXTINF:-1,Benghazi_tv
 rtmp://82.212.74.5:1935/live/7624
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=KWAIT Group=
-http://...
-
 #EXTINF:-1 ,kuwait1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/gmswf.m3u8
 #EXTINF:-1,ktv 2
@@ -794,10 +711,6 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.etere.com/DocImageArchive/636174029839741716.jpg" ,KTV Al Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=KSA Group=
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" ,Saudi 1
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
@@ -819,12 +732,6 @@ http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
 http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" ,Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN SPORTS Group=======
-http://......
-
 #EXTINF:-1,BeinSports
 http://27.254.63.132:1935/live/_definst_/bein1HD.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 #EXTINF:-1,beIN Sports 1 HD
@@ -847,40 +754,6 @@ http://bein.website/movecast/beIN.m3u8?id=bein8-hq
 http://bein.website/movecast/beIN.m3u8?id=bein9-hq
 #EXTINF:-1,BeIN Sport 10 HD 
 http://bein.website/movecast/beIN.m3u8?id=bein10-hq
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-#EXTINF:9 group-title=”United.Arab.Emirates2_PREMIUM-MXPlayer”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
-http://..........
-
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
@@ -901,11 +774,8 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" ,MBC 1
 http://srvt.topiptv.org:80/live/Acc_AM.testing/App65080/1750.ts|user-agent=Free-IPTV#V2.
-
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1 +3 hours" tvg-logo="https://topx1.com/logos/mbc_1.jpg" ,MBC 1 +3 hours
 http://srvt.topiptv.org:80/live/Acc_AM.testing/App65080/205.ts|user-agent=Free-IPTV#V2.
 
