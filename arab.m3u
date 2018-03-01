@@ -3802,8 +3802,6 @@ http://srvt.topiptv.org:80/live/Acc_AM.testing/App65080/247.ts|user-agent=Free-I
 http://srvt.topiptv.org:80/live/Acc_AM.testing/App65080/317.ts|user-agent=Free-IPTV#V2.
 #EXTINF:-1 tvg-ID="" tvg-name="Rotana Drama" tvg-logo="http://www.cairocinema.net/wp-content/uploads/2014/02/Drama.png" ,Rotana Drama
 http://srvt.topiptv.org:80/live/Acc_AM.testing/App65080/351.ts|user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN SPORTS=======
-http://......
 #EXTINF:-1 tvg-name="BeINSPORTS News" ,BeINSPORTS News
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS Global" ,BeINSPORTS Global
@@ -3832,8 +3830,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1485.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" ,beINSPORTS 12HD
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN Movies=======
-http://......
 #EXTINF:-1 tvg-name="BeIN Movies 1HD" ,BeIN Movies 1HD
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 2HD" ,BeIN Movies 2HD
@@ -3854,8 +3850,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1480.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN JUNIOR" ,BeIN JUNIOR
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======AD Sports=======
-http://......
 #EXTINF:-1 tvg-name="AD Sports 1HD" ,AD Sports 1HD
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 2HD" ,AD Sports 2HD
@@ -3868,8 +3862,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1470.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 6HD" ,AD Sports 6HD
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Maroc=======
-http://......
 #EXTINF:-1 tvg-name="Al-Aoula-Inter" ,Al-Aoula-Inter
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="2M-Monde" ,2M-Monde
@@ -3890,8 +3882,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1389.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arrabia" ,Arrabia
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Algeria=======
-http://......
 #EXTINF:-1 tvg-name="Samira-Tv" ,Samira-Tv
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Programme.National" ,Programme.National
@@ -3938,8 +3928,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1378.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BAHIA TV" ,BAHIA TV
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Tunesia=======
-http://......
 #EXTINF:-1 tvg-name="Tonesna" ,Tonesna
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 1" ,Tunesia 1
@@ -3960,8 +3948,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1350.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Janoubia" ,Al-Janoubia
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======KIDS=======
-http://......
 #EXTINF:-1 tvg-name="Alrahma" ,Alrahma
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alnas" ,Alnas
@@ -3976,8 +3962,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1342.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="IQRAA" ,IQRAA
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=============
-http://......
 #EXTINF:-1 tvg-name="CN Arabia" ,CN Arabia
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Baraeem" ,Baraeem
@@ -4006,8 +3990,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1334.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera Doc" ,Aljazeera Doc
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Art=======
-http://......
 #EXTINF:-1 tvg-name="Aflam 1" ,Aflam 1
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 2" ,Aflam 2
@@ -4018,8 +4000,6 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1321.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Cinema" ,Cinema
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======MBC=======
-http://......
 #EXTINF:-1 tvg-name="MBC 1" ,MBC 1
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 2" ,MBC 2
@@ -4058,7 +4038,3 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1295.ts|user-agent=VLC/3
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 1HD" ,MBC SPORT 1HD
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-
-
-
-
