@@ -4,8 +4,8 @@
 
 
 
-#EXTINF:0,FTV Federalna
-http://109.175.6.68:4936/udp/239.0.0.7:1234
+#EXTINF:0,FTV
+http://iptv04.com:8080/live/6ltQlh2kGD/6lr5jGPvne/4185.m3u8
 
 #EXTINF:0,Alternativna Banja Luka
 http://217.199.133.226:4936/udp/235.255.1.58:5454
