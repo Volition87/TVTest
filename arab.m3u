@@ -1,45 +1,9 @@
 #EXTINF:1 group-title=”EX-YU”,
 
+
 #EXTM3U
-#EXTINF:0,BIH
-http://178.132.6.97/BA:BHT1SD/tracks-v1a1/index.m3u8
-#EXTINF:0,BN
-http://tvstream.rtvbn.com:1935/live/stream/balkantelevizija.net.m3u8
-#EXTINF:0,USK
-http://178.132.6.97/RTV:USK/tracks-v1a1/index.m3u8
-#EXTINF:0,FACETV
-http://178.132.6.97/FACETV/tracks-v1a1/index.m3u8
-#EXTINF:0,TVSarajevo
-http://178.132.6.97/BA:TVSarajevo/tracks-v1a1/index.m3u8
-#EXTINF:0,TOP SOUND
-http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
-#EXTINF:0,OSM
-http://178.132.6.97/RS:OSMPale/tracks-v1a1/index.m3u8
-#EXTINF:0,VIKOM
-http://178.132.6.97/a1vikom/index.m3u8
-#EXTINF:0,JazzeraAL
-http://178.132.6.97/JazzeraAL/index.m3u8
-#EXTINF:0,A1Sandzak
-http://178.132.6.97/A1Sandzak/tracks-v1a1/index.m3u8
-#EXTINF:0,FNTV Sandzak
-http://178.132.6.97/livebntv/tracks-v1a1/index.m3u8
-#EXTINF:0,A1Exclusive
-http://178.132.6.97/A1Skandinavija/tracks-v1a1/index.m3u8
-#EXTINF:0,A1Islam
-http://178.132.6.97/A1Islam/tracks-v1a1/index.m3u8
-#EXTINF:0,A1Islam MNE TV
-http://178.132.6.97/uzivo/monteisl/index.m3u8
-#EXTINF:0,A1World
-http://178.132.6.97/A1Internacional/index.m3u8
-#EXTINF:0,SMART TV
-http://178.132.6.97/bs:SMARTTVTESANJ/tracks-v1a1/index.m3u8
-#EXTINF:0,A1 SPORT
-http://178.132.6.97/A1Sport/tracks-v1a1/index.m3u8
-#EXTINF:0,ZDRAVA TV 7
-http://178.132.6.97/uzivo/zdravatvhr/tracks-v1a1/index.m3u8
-#EXTINF:0,life TV
-http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-#EXTM3U
+#EXTINF:-1,FTV
+http://109.175.6.68:4936/udp/239.0.0.7:1234
 #EXTINF:-1,Alternativna Banja Luka
 http://217.199.133.226:4936/udp/235.255.1.58:5454
 #EXTINF:-1,EUROSPORT 1 rs
