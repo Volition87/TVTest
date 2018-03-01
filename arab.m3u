@@ -1,7 +1,16 @@
 #EXTINF:1 group-title=”EX-YU”,
 
 
-
+#EXTINF:0,Federalna TV
+http://178.63.199.70:7000/
+#EXTINF:0,FTV
+http://146.255.59.3:9152
+#EXTINF:0,FTV
+http://146.255.59.3:8152
+#EXTINF:0,HAYAT
+http://146.255.59.3:8153
+#EXTINF:0,HAYAT
+http://146.255.59.3:8193
 
 #EXTINF:0,OBN
 163.172.43.238:25246/stream3/obnntv1757.ts
