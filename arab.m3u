@@ -2,7 +2,7 @@
 
 
 #EXTM3U
-#EXTINF:-1,FTV
+#EXTINF:-1,FTV Federalna
 http://109.175.6.68:4936/udp/239.0.0.7:1234
 #EXTINF:-1,Alternativna Banja Luka
 http://217.199.133.226:4936/udp/235.255.1.58:5454
