@@ -270,7 +270,1126 @@ http://91.185.214.194:8080/hls/stream.m3u8
 http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
 
 
-#EXTINF:2 group-title=”Greece”,
+#EXTINF:2 group-title=”Test”,
+
+
+#EXTINF:-1 tvg-name="HRT 1" tvg-logo="http://tvprofil.net/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1
+http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1 tvg-name="HRT 1" tvg-logo="http://tvprofil.net/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1 (L2)
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1155.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://www.scena.hr/wp-content/uploads/2016/06/HRT-2.jpg" group-title="HRVATSKA",HRT 2
+http://66.70.129.43:8080/Hrt2/index.m3u8
+#EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/HRT3_%28future%29.png/revision/latest?cb=20160326103243" group-title="HRVATSKA",HRT 3
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1157.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-name="HRT 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/HRT4.png/revision/latest?cb=20121221162234",HRT 4
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1158.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:-1,HRT 5
+http://amsterdam1.dvrdns.org:16880/live?channelId=406&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://www.rtlgroup.com/files/jpg1/RTL_Televizija_Logo.jpg" group-title="HRVATSKA",RTL
+http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/rtl-22/271293-2-cro-HR/RTL-2.png" group-title="HRVATSKA",RTL 2
+rtmp://130.117.45.5:1935/P929594662/_definst_/rtl2.stream
+#EXTINF:-1,RTL Big Brother
+https://live-rtlhr.akamaized.net/out/u/rtl_hr/rtl_bigbrother_ott_c_5.m3u8
+#EXTINF:0 tvg-name="RTL Kockica" tvg-logo="http://nextgen-iptv.com/logo/RTLKockica_HR.png" group-title="HRVATSKA",RTL Kockica
+rtmp://680111997.e.929594662.r.pluscdn.com/929594662/rtlkockica.stream
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/rtl_living/29352-8-cro-HR/rtl_living_tvchannel_large.png" group-title="HRVATSKA",RTL Living
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1169.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://phazer.info/img/kanali/rtl-crime.jpg" group-title="HRVATSKA",RTL Crime
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1167.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:0 tvg-name="RTL Passion" tvg-logo="http://tvprofil.net/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA",RTL Passion
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1170.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:0 tvg-name="Nova TV" tvg-logo="http://nextgen-iptv.com/logo/NovaTV_HR.png" group-title="HRVATSKA",Nova TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/3930.ts
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Nova_World.jpg/revision/latest?cb=20110926093849"Nova World
+ 
+#EXTINF:0 tvg-name="Doma TV" tvg-logo="http://nextgen-iptv.com/logo/DomaTV_HR.png" group-title="HRVATSKA",Doma TV
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1176.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-name="Z1" tvg-logo="http://nextgen-iptv.com/logo/360px-Z1_Logo.png" group-title="HRVATSKA"Z1
+ 
+#EXTINF:-1 tvg-logo="http://makarska-post.com/wp-content/uploads/2016/04/mrezatv_logo.png" group-title="HRVATSKA"Mreža TV
+ 
+#EXTINF:-1KanalRi
+ 
+#EXTINF:-1 tvg-logo="http://franjevci-karlovac.hr/wp-content/uploads/2015/12/logo-7.png" group-title="HRVATSKA",Laudato TV
+http://amsterdam2.dvrdns.org:14452/live?channelId=407&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+ 
+ 
+#EXTINF:-1,[COLOR green]===== EX-YU =====[/COLOR]
+skip
+ 
+#EXTINF:-1 tvg-ID="RTS 1" tvg-name="RTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/8/80/RTS1.png" group-title="EX-YU",RTS
+http://66.70.129.43:8080/Rts1/index.m3u8
+#EXTINF:-1 tvg-ID="RTS 2" tvg-name="RTS 2" tvg-logo="http://tvprofil.net/img/kanali-logo/RTS2_logo.png" group-title="EX-YU",RTS 2
+http://66.70.129.43:8080/Rts2/index.m3u8
+#EXTINF:-1 tvg-ID="RTS 3" tvg-name="RTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/800px-RTS_3_logo.svg.png" group-title="EX-YU", RTS 3
+http://195.252.68.245:1935/KLIKTV_2/smil:pink105.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="RTS 1" tvg-name="RTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/8/80/RTS1.png" group-title="EX-YU"RTS 1 HD
+ 
+#EXTINF:-1 tvg-name="RTS Sat" tvg-logo="http://www.glenten.dk/filarkiv/Programikoner/RTS.png" group-title="EX-YU",RTS Sat
+http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1 tvg-id="RTS Drama" tvg-name="RTS Drama" tvg-logo=""RTS Drama
+ 
+#EXTINF:-1,RTS Svet
+http://83.78.174.170:4022/udp/239.186.64.80:10000
+#EXTINF:-1 tvg-id="RTS Život" tvg-name="RTS Zivot" tvg-logo="https://static.mts.rs/poslovni/TV/Logoi/RTS-zivot-120x120.png?d=False&h=636184505558300000"RTS Zivot
+ 
+#EXTINF:-1 tvg-name="RTRS" tvg-logo="http://epg.serbianforum.org/logo_znaci/Rtrs%20RS.png" group-title="EX-YU",RTRS
+http://195.222.48.168/rtrs.m3u8
+#EXTINF:-1 tvg-ID="Prva" tvg-name="Prva" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Prva_tv.png/revision/latest?cb=20121029200808" group-title="EX-YU",Prva
+http://195.252.68.245:1935/KLIKTV_2/smil:pink95.mf.smil/chunklist_w235284193_b1928000.m3u8
+#EXTINF:-1 tvg-name="Prva Kick" tvg-logo="http://www.kurir.rs/data/images/2017/11/30/10/1339803_untitled1_ls-s.jpg" group-title="EX-YU"Prva Kick
+ 
+#EXTINF:-1 tvg-ID="Prva Max" tvg-name="Prva MAX" tvg-url="https://epg.serbianforum.org/epg.xml" tvg-logo="http://prvamax.prva.rs/img/logo.png" group-title="EX-YU"Prva Max
+ 
+#EXTINF:-1 tvg-ID="Prva Plus" tvg-name="Prva Plus" tvg-logo="http://prvaplus.prva.rs/img/logo.png" group-title="EX-YU",Prva Plus
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/3939.ts
+#EXTINF:-1 tvg-ID="Prva World" tvg-name="Prva World" tvg-logo="http://prvaworld.prva.rs/img/logo.png" group-title="EX-YU",Prva World
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/3938.ts
+#EXTINF:-1 tvg-name="Naša Vremeplov" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1092/thumb_na_a_vremeplov.png" group-title="EX-YU"Nasa TV Vremeplov
+ 
+#EXTINF:-1 tvg-ID="StudioB" tvg-name="Studio B" tvg-logo="https://ocdn.eu/pulscms-transforms/1/fabktkpTURBXy83MGZiMDAyYzMyZWFkMTAwNGY2NTYyZTY1NDgzZmU0MS5qcGeSlQLNAxQAwsOVAs0B1gDCww" group-title="EX-YU", Studio B
+http://195.252.68.245:1935/KLIKTV_2/smil:pink94.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.zenska.tv/wp-content/uploads/2017/05/ztvBIH.jpg" group-title="EX-YU",Zenska TV
+http://212.200.112.21:9999/play/a01k/index.m3u8
+#EXTINF:0 tvg-name="Happy TV" tvg-logo="https://2.bp.blogspot.com/-NRTQGPBHwbs/V7HYhjrt0MI/AAAAAAAAAMA/8ARCth-A-OI0G_BnExX16Y7KUgiWeYlwgCLcB/s1600/8%2BHappy_tv_logo.png" group-title="EX-YU",Happy TV
+http://195.252.68.245:1935/KLIKTV_2/smil:pink104.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Face Tv" tvg-logo="http://tvprofil.net/img/kanali-logo/face-tv-logo.png" group-title="EX-YU",Face HD
+http://178.132.6.97/FACETV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-ID="KCN 1" tvg-name="KCN 1" tvg-logo="https://totaltv.tv/oec/images/tv_channels/305c3934493482bcd70f3fd0b2a2cbc1.png" group-title="EX-YU",KCN Kopernikus 1
+http://212.200.112.94:8000/play/a00r
+#EXTINF:-1 tvg-name="PULS" tvg-logo="https://www.firstonetv.net/images/logos/rs/RTVPULS.png" group-title="EX-YU",Puls
+http://stream.rtvpuls.com/broadcasting
+#EXTINF:-1 tvg-ID="OBN" tvg-name="OBN" tvg-logo="http://screen-fire.eu/file/2015/08/Obn-Tv-logo1.jpg" group-title="EX-YU",OBN
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/977.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:-1 tvg-ID="BN" tvg-name="BN" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/5755/brand.gif?itok=vrLYzt67" group-title="EX-YU",BN
+http://212.200.112.94:8000/play/a020
+#EXTINF:-1 tvg-ID="FTV" tvg-name="Federalna TV" tvg-logo="http://teve.ba/img/articles/7581.jpg" group-title="EX-YU",Federalna TV
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/983.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="O2" tvg-name="O2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/e/ec/O2.TV_logo.png" group-title="EX-YU", O2
+http://195.252.68.245:1935/KLIKTV_2/smil:pink96.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="BHT 1" tvg-name="BHT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" group-title="EX-YU",BHT 1
+http://178.132.6.97/BA:BHT1SD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-ID="Hayat" tvg-name="Hayat TV" tvg-logo="https://lh5.ggpht.com/9zAjkhYmbxtRnAVDl4qxZfQTZoZM-7hwpTEAr8Dtjmw4r8dEpKlkBLYdAobZJ7FTZoWv=h1080" group-title="EX-YU",Hayat
+http://195.252.68.245:1935/KLIKTV_2/smil:pink89.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="HayatPlus" tvg-name="Hayat Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/bs/1/1a/Logo_hayat_tv_sat_plus.png" group-title="EX-YU",Hayat Plus
+http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1 tvg-logo="http://www.serbianlogo.com/thumbnails/tv_most.gif" group-title="EX-YU",TV Most
+http://195.252.68.245:1935/KLIKTV_2/smil:pink106.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX-YU",A1 Balkan
+http://178.132.6.97/A1Balkan/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.zabavimo.se/images/tv/a1-exclusive.png" group-title="EX-YU",A1 Exclusive
+http://178.132.6.97/A1Skandinavija/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="EX-YU",A1 World
+http://178.132.6.97/A1Internacional/tracks-v1a1/index.m3u8
+#EXTINF:-1Atlas TV
+ 
+#EXTINF:-1 tvg-id="RT CG" tvg-link="" tvg-name="RT CG 1" tvg-logo="https://television-live.com/uploads/4cg6g34rwdwd.png" group-title="EX-YU"RTCG 1
+ 
+#EXTINF:-1 tvg-id="RTCG 2" tvg-link="" tvg-name="RT CG 2" tvg-logo="http://4.bp.blogspot.com/-Zoj8nOXwKPs/UAL1AVYZ9zI/AAAAAAAAImQ/glDVJrWxs4A/s1600/RTCG2+logo+2012.png" group-title="EX-YU"RTCG 2
+ 
+#EXTINF:-1,RTCG Sat
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/996.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-id="ZADRUGA LIVE" tvg-link="" tvg-name="ZADRUGA LIVE" tvg-logo="" group-title="EX-YU"Zadruga live
+#EXTINF:-1,Telegraf HD
+http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1,[COLOR pink]===== PINK =====[/COLOR]
+skip
+ 
+#EXTINF:-1, Pink 1
+http://195.252.68.245:1935/KLIKTV_2/smil:pink22.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink 2
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1179.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,Pink Action
+http://195.252.68.245:1935/KLIKTV_2/smil:pink23.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink BH
+http://195.252.68.245:1935/KLIKTV_2/smil:pink21.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Classic
+http://195.252.68.245:1935/KLIKTV_2/smil:pink41.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Comedy
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1184.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-name="Pink Crime & Mystery" tvg-logo="http://tvprofil.net/img/kanali-logo/Pink_Crime_Mistery_logo.png" group-title="PINK",Pink Crime & Mystery
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1185.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,Pink Extra
+http://195.252.68.245:1935/KLIKTV_2/smil:pink20.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Family
+http://195.252.68.245:1935/KLIKTV_2/smil:pink27.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Fashion
+http://195.252.68.245:1935/KLIKTV_2/smil:pink17.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Film
+http://195.252.68.245:1935/KLIKTV_2/smil:pink25.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink HAHA
+http://195.252.68.245:1935/KLIKTV_2/smil:pink53.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Horror
+http://195.252.68.245:1935/KLIKTV_2/smil:pink32.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Kuvar
+http://195.252.68.245:1935/KLIKTV_2/smil:pink51.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink LOL
+http://195.252.68.245:1935/KLIKTV_2/smil:pink54.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink M
+http://195.252.68.245:1935/KLIKTV_2/smil:pink29.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Movies
+http://195.252.68.245:1935/KLIKTV_2/smil:pink24.mf.smil/playlist.m3u8
+#EXTINF:-1Pink Parada
+ 
+#EXTINF:-1,Pink Pedia
+http://195.252.68.245:1935/KLIKTV_2/smil:pink33.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Plus
+http://195.252.68.245:1935/KLIKTV_2/smil:pink19.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Premium
+http://195.252.68.245:1935/KLIKTV_2/smil:pink7.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Reality
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1199.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,Pink Romance
+http://195.252.68.245:1935/KLIKTV_2/smil:pink4.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Sci-Fi & Fantasy
+http://195.252.68.245:1935/KLIKTV_2/smil:pink5.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Serije
+http://195.252.68.245:1935/KLIKTV_2/smil:pink48.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Show
+http://195.252.68.245:1935/KLIKTV_2/smil:pink50.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Soap
+http://195.252.68.245:1935/KLIKTV_2/smil:pink8.mf.smil/playlist.m3u8
+#EXTINF:0,Pink Style
+http://195.252.68.245:1935/KLIKTV_2/smil:pink42.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Thriller
+http://195.252.68.245:1935/KLIKTV_2/smil:pink2.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Western
+http://195.252.68.245:1935/KLIKTV_2/smil:pink40.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink World
+http://195.252.68.245:1935/KLIKTV_2/smil:pink9.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink World Cinema
+http://195.252.68.245:1935/KLIKTV_2/smil:pink49.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Zabava
+http://195.252.68.245:1935/KLIKTV_2/smil:pink10.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Zadruga
+http://195.252.68.245:1935/KLIKTV_2/smil:pink6.mf.smil/playlist.m3u8
+ 
+ 
+#EXTINF:-1,[COLOR green]===== FILM I SERIJE =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1A1 Cinema TV
+ 
+#EXTINF:-1 tvg-ID="Diva" tvg-name="Diva" tvg-logo="tvg-logo="http://phazer.info/img/kanali/diva.jpg" group-title="FILM I SERIJE",Diva
+http://91.185.99.146:60666/udp/239.1.7.7:5000
+#EXTINF:0 tvg-ID="Klasik TV" tvg-name="Klasik Tv" tvg-logo="http://www.frosat.net/images/logotv/original/Klasik-TV.jpg" group-title="FILM I SERIJE",Klasik TV
+http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="FILM I SERIJE",HBO HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1151.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="FILM I SERIJE",HBO 2 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1152.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-id="HBO3" tvg-link="http://eog.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701" group-title="FILM I SERIJE",HBO 3 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1153.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="Kino TV" tvg-name="Kino TV" tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/kinotv2/271319-2-cro-HR/KinoTV.png" group-title="FILM I SERIJE",Kino TV
+http://213.202.73.202/iskon/smil:kinotvw.smil/playlist.m3u8?username=vingd_user-6becc3f0&s=2305d98a6ab1f529b255e9f3f185ad52&stream_count=2
+#EXTINF:-1 tvg-ID="TV 1000" tvg-name="TV 1000" tvg-logo="http://tvprofil.net/img/kanali-logo/viasat-tv-1000.png" group-title="FILM I SERIJE",TV 1000
+http://217.199.133.226:4936/udp/235.255.1.56:5434
+#EXTINF:-1H1
+ 
+#EXTINF:-1 tvg-ID="Comedy Central Extra" tvg-name="Comedy Central Extra" tvg-logo="http://tvprofil.net/img/kanali-logo/comedy-centra-extra-logo.png" group-title="FILM I SERIJE"Comedy Central Extra
+ 
+#EXTINF:-1CBS Drama
+ 
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://nextgen-iptv.com/logo/AXN_HR.png" group-title="FILM I SERIJE",AXN
+http://212.200.112.94:8000/play/a00p
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="AXN Spin" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/c7/AXN_Spin_2015.png/revision/latest?cb=20160118192636" group-title="FILM I SERIJE",AXN Spin
+rtmp://109.206.96.209:1935/axnspin_tv_247
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX" tvg-logo="http://nextgen-iptv.com/logo/FOX_HR.png" group-title="FILM I SERIJE",FOX
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/3917.ts
+#EXTINF:-1 tvg-ID="FOX Life" tvg-name="FOX Life" tvg-logo="http://nextgen-iptv.com/logo/FOXLife_HR.png" group-title="FILM I SERIJE",FOX Life
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/208.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="FOX Movies" tvg-name="FOX Movies" tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/FOX_MOVIESHD.png" group-title="FILM I SERIJE",FOX Movies
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/3916.ts
+#EXTINF:-1 tvg-ID="FOX Crime" tvg-name="FOX Crime" tvg-logo="http://nextgen-iptv.com/logo/FOXCrime_HR.png" group-title="FILM I SERIJE",FOX Crime
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/209.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-,Cinestar Tv
+http://amsterdam3.dvrdns.org:15080/live?channelId=265&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:1 tvg-name="CineStar TV (Srb)" tvg-logo="http://nextgen-iptv.com/logo/CineStarTV_HR.png" group-title="FILM I SERIJE"Cinestar Serbia
+ 
+#EXTINF:-1 tvg-id="CinestarPremiere1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere1_HR.png" group-title="FILM I SERIJE",Cinestar Premiere 1
+http://amsterdam1.dvrdns.org:16880/live?channelId=317&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1 tvg-id="CinestarPremiere2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere 2" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere2_HR.png" group-title="FILM I SERIJE",Cinestar Premiere 2
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/3912.ts
+#EXTINF:-1 tvg-id="CineStarAT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Action & Thriller" tvg-logo="http://nextgen-iptv.com/logo/CineStarAction_HR.png" group-title="FILM I SERIJE",Cinestar Action
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/3911.ts
+#EXTINF:-1 tvg-ID="CineStar Fantasy" tvg-name="Cinestar Fantasy" tvg-logo="https://sbb.rs/oec/images/tv_channels/b1496b6ff58fdc7d0b4cd6708c3ff89c.png" group-title="FILM I SERIJE",Cinestar Fantasy (NE RADI UVIJEK)
+http://smarttv.tvviet.tv/live102/CinestarFantasy.m3u8?u=serbianvip&p=c5955141060f48539e43aa1ad4f368f0107218b16c94dadcbfe9d6f5753b7002&token=dpuwkMHrVm6Tc3_lRmN8Ww&channel=CinestarFantasy&e=1999999999
+#EXTINF:-1 tvg-ID="Cinemania" tvg-name="Cinemania" tvg-logo="https://sbb.rs/oec/images/tv_channels/087e33a30c43e0f82360d0b9786df5cd.png" group-title="FILM I SERIJE",Cinemania
+http://91.185.99.146:60666/udp/239.1.7.1:5000
+#EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Cinemax 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/web/AVD-4716_CINEMAX_logo_440x300._V529164443_.jpg" group-title="FILM I SERIJE",Cinemax 1 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1218.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Cinemax2_new_large.preview.jpg/revision/latest/scale-to-width-down/276?cb=20160721180356" group-title="FILM I SERIJE",Cinemax 2 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1219.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="SciFi" tvg-name="Sci Fi" tvg-logo="http://onlyagame.typepad.com/.a/6a00d83452030269e2013488790d81970c-800wi" group-title="FILM I SERIJE",SciFi
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1171.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="M1 Film" tvg-name="M1 Film" tvg-logo="http://tvprofil.net/img/kanali-logo/m1film-logo.png" group-title="FILM I SERIJE"M1 Film
+ 
+#EXTINF:-1M1 Film Gold
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://www.tvonline-live.com/wp-content/uploads/2013/05/Watch-AMC-Tv-Live-%E2%80%93-Free-Online-AMC-TV-Channel-US.png" group-title="FILM I SERIJE",AMC
+http://91.185.99.146:60666/udp/239.1.7.4:5000
+#EXTINF:-1 tvg-ID="FilmBox" tvg-name="FilmBox" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/FilmBox_Extra_HD.png/revision/latest?cb=20161213135724" group-title="FILM I SERIJE",FilmBox Extra
+http://46.40.5.99:8000/filmbox_extra_high
+#EXTINF:-1 tvg-ID="FilmBoxPlus" tvg-name="FilmBox Plus" tvg-logo="http://tvprofil.net/img/kanali-logo/filmbox_plus_cz.png" group-title="FILM I SERIJE",FilmBox Plus
+http://46.40.5.99:8000/filmbox_plus_high
+#EXTINF:-1 tvg-ID="Film Klub" tvg-name="Film Klub" tvg-logo="http://filmklub.rs/img/logo-fk.png" group-title="FILM I SERIJE",Film Klub
+http://93.87.85.69/PLTV/88888888/224/3221226670/04.m3u8?accountinfo=Dea9u9y%2BFovaV0Rfi7NloTuQ2y9UVMJ%2FIi9iwfacWCEWFJFiSKOtj496vMYbUdgYaf%2F6QVdV7EUa5GDuihirtrNJQJJxHCDa9Al1pWYAgz1oeX9iljEoKLshqHpSHXbku1IZQid9BMXxElznD6QA2vVl%2BTY98ZtDUCsLkJ14H2QPulEARwSycIVhUtftvhL0%3A20161114221304%3AUTC%2C76091703%2C77.243.24.16%2C20161114221304%2Curn%3AHuawei%3AliveTV%3AXTV100001781%2C9B7E7BF7D830257C81EEEEB05319D74C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CmAjsToRiOmAlTeRiSasTelI%2C0%2CkOiZDavIpjEpIzDa%2CMh%2FUXfkQueeDokOsHxOT41jC1IY%3D%2C2%2C,END&GuardEncType=2
+#EXTINF:-1,Film Klub Extra
+http://93.87.85.69/PLTV/88888888/224/3221226840/04.m3u8?accountinfo=4es0m2zO4K%2BSOlhEuQE5wz2venSJc9eog%2BDm8B%2Fsnpt8hhpoxgqlnoo92kGp89STKnbs%2Ftk5dSNqxf0gPjladltWVVZXfwM6%2BR6Dp%2BHQKxOjAwYvPjudXUXZu0MNxYV2PO76hi2fg1IoYfjowGTaSngItjS6V%2FlSzvDBo55StlZtdpZjgWkl7Gd4IUs%2FxBc1%3A20170201200517%3AUTC,END&GuardEncType=2
+#EXTINF:-1,Star TV
+http://93.87.85.70/PLTV/88888888/224/3221226874/04.m3u8?accountinfo=NjVOYsV1NwdSRphwJQ1mwz2venSJc9eog%2BDm8B%2Fsnps1wI2FVpfl5ZQwfr%2Bdtoa7Knbs%2Ftk5dSNqxf0gPjladi5Q%2BNAon3dduSjnukuKvrCchJOZrsC%2FHzr49TuPpnJXOe4EpcLpzc3dB5Q9jIIs8sWZpwTls09UuZpHwECmZI%2FK3cK2TT5aIYI9VmMuNoxe%3A20170425204125%3AUTC,END&GuardEncType=2
+#EXTINF:-1Filmovita
+#EXTINF:-1Cinema TV
+#EXTINF:-1OYO Cinema
+#EXTINF:-1 tvg-name="Eurochannel" tvg-logo="https://www.cooltourtoluca.com/wp-content/uploads/2017/08/eurochannel.png" group-title="FILM I SERIJE"Euro Channel HD
+ 
+#EXTINF:-1 group-title="FILM I SERIJE",TOP Kanal
+http://amsterdam1.dvrdns.org:16880/live?channelId=403&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,Cinemacious 1
+http://amsterdam1.dvrdns.org:16880/live?channelId=380&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,Cinemacious 2
+http://amsterdam1.dvrdns.org:16880/live?channelId=381&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,Cinemacious 3
+http://amsterdam1.dvrdns.org:16880/live?channelId=382&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,Cinemacious 4
+http://amsterdam1.dvrdns.org:16880/live?channelId=383&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,Cinemacious 5
+http://amsterdam1.dvrdns.org:16880/live?channelId=384&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,Cinemacious 6
+http://amsterdam2.dvrdns.org:14452/live?channelId=385&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,Cinemacious 7
+http://amsterdam2.dvrdns.org:14452/live?channelId=386&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,Cinemacious 8
+http://amsterdam2.dvrdns.org:14452/live?channelId=387&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+ 
+ 
+#EXTINF:-1,[COLOR green]===== SPORT =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1 tvg-ID="Arena Sport 1 HR" tvg-name="Arena Sport 1 HR" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_1_logo.png" group-title="SPORT",Arena Sport 1 (HR) HD
+http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/18.ts|User-Agent="AppleCoreMedia12341
+#EXTINF:-1 tvg-ID="Arena Sport 2 HR" tvg-name="Arena Sport 2 HR" tvg-logo="https://4.bp.blogspot.com/-MTdM4t8ybyc/WPVCdj87UoI/AAAAAAAAFPU/BoKVZEh4bzEl-_qTVcwLSl2q-8Daw_wGQCLcB/s1600/arena_sport_rs_2.png" group-title="SPORT",Arena Sport 2 (HR) HD
+http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/19.ts|User-Agent="AppleCoreMedia12341
+#EXTINF:-1 tvg-ID="Arena Sport 3 HR" tvg-name="Arena Sport 3 HR" tvg-logo="https://4.bp.blogspot.com/-0vVZNo_h5mU/WPVCab0_3BI/AAAAAAAAFPQ/3esrVqVVnpAspLkg7jV3DfeyToVoilcJwCLcB/s1600/arena_sport_rs_3.png" group-title="SPORT",Arena Sport 3 (HR) HD
+http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/20.ts|User-Agent="AppleCoreMedia12341
+#EXTINF:-1 tvg-ID="Arena Sport 4 HR" tvg-name="Arena Sport 4 HR" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_4_logo.png" group-title="SPORT",Arena Sport 4 (HR) HD
+http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/21.ts|User-Agent="AppleCoreMedia12341
+#EXTINF:-1,Arena Sport 5 (HR) HD (NE RADI UVIJEK)
+http://storm.iptvsolution.net:80/live?channelId=191&uid=9277&deviceMac=00:1a:79:9b:51:20
+#EXTINF:-1Arena Sport 6 (HR) HD
+ 
+#EXTINF:-1 tvg-name="Arena Sport 1" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_1_logo.png" group-title="SPORT",Arena Sport 1 (RS) HD
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 2" tvg-name="Arena Sport 2" tvg-logo="https://4.bp.blogspot.com/-MTdM4t8ybyc/WPVCdj87UoI/AAAAAAAAFPU/BoKVZEh4bzEl-_qTVcwLSl2q-8Daw_wGQCLcB/s1600/arena_sport_rs_2.png" group-title="SPORT",Arena Sport 2 (RS) HD
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+#EXTINF:-1  tvg-ID="Arena Sport 3" tvg-name="Arena Sport 3" tvg-logo="https://4.bp.blogspot.com/-0vVZNo_h5mU/WPVCab0_3BI/AAAAAAAAFPQ/3esrVqVVnpAspLkg7jV3DfeyToVoilcJwCLcB/s1600/arena_sport_rs_3.png" group-title="SPORT",Arena Sport 3 (RS)
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1 tvg-ID="Arena Sport 4" tvg-name="Arena Sport 4" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_4_logo.png" group-title="SPORT",Arena Sport 4 (RS)
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 5" tvg-name="Arena Sport 5" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_5_logo.png" group-title="SPORT",Arena Sport 5 (RS)
+http://212.200.112.94:8000/play/a00y
+#EXTINF:-1Sport Klub (HR) HD
+ 
+#EXTINF:-1,SK 1
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1172.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,SK 2
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1173.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,SK 3
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1174.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,SK 4
+rtmp://109.245.228.242:1935/live2/livedb50-1m
+#EXTINF:-1,SK 5
+rtmp://109.245.228.242:1935/live2/livedb51-1m
+#EXTINF:-1,SK 6
+rtmp://109.245.228.242:1935/live2/livedb52-1m
+#EXTINF:-1,TV Partizan HD
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+#EXTINF:0,Extreme Sport
+http://cdn.iptv.amis.net/ts/EXTREME/stream_iptv_2000k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,Redbull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1FightBox HD
+ 
+#EXTINF:-1 epg-name="Fight Channel"Fight Channel
+ 
+#EXTINF:-1,Fight Network HD
+http://195.252.68.245:1935/KLIKTV_2/smil:pink15.mf.smil/playlist.m3u8
+#EXTINF:-1Motorsport TV FHD
+ 
+#EXTINF:-1,A1 Sport
+http://178.132.6.97/A1Sport/tracks-v1a1/index.m3u8
+#EXTINF:-1HNTV
+ 
+#EXTINF:-1,Sportska Televizija
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1145.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,BT Sport 1 HD
+http://163.172.220.115:8080/MatH33RaaabB3eETtiyiy-1/Strm/index.m3u8|User-Agent=AppleCoreMedia
+#EXTINF:-1,BT Sport 2
+http://163.172.220.115:8080/MatH33RaaabB3eETtiyiy-2/Strm/index.m3u8|User-Agent=AppleCoreMedia
+#EXTINF:-1BT Sport 3 HD
+ 
+#EXTINF:-1Box Nation HD
+ 
+#EXTINF:-1Sky Sports Arena HD
+ 
+#EXTINF:-1Sky Sports Premier League
+ 
+#EXTINF:-1,Sky Sports Action HD
+http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2136.ts
+#EXTINF:-1Sky Sports F1
+ 
+#EXTINF:-1Sky Sports Football
+ 
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/Sky_Bundesliga_HD1_Corner_2013.svg.png",Sky Sports Bundesliga 1 HD
+http://amsterdam1.dvrdns.org:16880/live?channelId=146&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1Sky Sports Bundesliga 2 HD
+ 
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/skysport1.png",Sky Sport 1 (DE)
+http://185.231.160.42/786/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/skysport2.png",Sky Sport 2 HD (DE)
+http://amsterdam1.dvrdns.org:16880/live?channelId=157&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+ 
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD" tvg-logo="" group-title="SPORT"Sky Sport 3 HD (NE RADI UVIJEK)
+ 
+ 
+#EXTINF:-1Sky Sport 1 (UK) HD
+ 
+#EXTINF:-1Sky Sport 2 (UK) HD
+ 
+#EXTINF:-1Sky Sport 3 (UK) HD
+ 
+#EXTINF:-1Sport 1 HD (DE)
+ 
+#EXTINF:-1,Eurosport 1 HD
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://195.206.253.157:8001/eurosport2hd
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport 1" tvg-logo="http://titaniptv.com/epg/logo/Eurosport%201.png" group-title="SPORT", Eurosport 1 (RS) HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1135.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,Eurosport 2 (RS) HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1136.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1Trace Sports Stars HD
+ 
+#EXTINF:-1,NBA TV
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/311.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:-1F52
+ 
+#EXTINF:-1 tvg-id="BEIN SPORT 1 HD" tvg-link="" tvg-name="BEIN SPORT 1 HD" tvg-logo="" group-title="Sport",Bein Sport 1 (FR) HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/259.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-id="BEIN SPORT 2 HD" tvg-link="" tvg-name="BEIN SPORT 2 HD" tvg-logo="" group-title="Sport",Bein Sport 2 (FR) HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/258.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-id="BEIN SPORT 3 HD" tvg-link="" tvg-name="BEIN SPORT 3 HD" tvg-logo="" group-title="Sport",Bein Sport 3 (FR) HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/257.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-id="BEIN SPORT 4 HD" tvg-link="" tvg-name="BEIN SPORT 4 HD" tvg-logo="" group-title="Sport"Bein Sport Max 4
+ 
+#EXTINF:-1,Bein Sport 5 (AR)
+http://163.172.18.54:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/27.ts
+#EXTINF:-1,Ziggo Sport eXtra 1
+http://62.210.82.102:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/542.ts
+#EXTINF:-1,Ziggo Sport eXtra 2
+http://62.210.82.102:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/541.ts
+#EXTINF:-1,Ziggo Sport Racing HD
+http://62.210.82.102:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/539.ts
+#EXTINF:-1,Ziggo Sport Select HD
+http://62.210.82.102:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/538.ts
+#EXTINF:-1,Barca TV
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/368.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:-1Racing UK
+ 
+#EXTINF:-1,Real Madrid
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/369.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:-1,Chelsea TV HD
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1Manchester TV HD
+ 
+#EXTINF:-1,Liverpool FC
+http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2142.ts
+ 
+#EXTINF:-1,[COLOR green]===== DOKUMENTARNI =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1,24 Kitchen
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1175.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:0,Animal Planet
+http://217.199.133.226:4936/udp/235.255.1.53:5404
+#EXTINF:-1,BBC Earth
+http://93.87.85.69/PLTV/88888888/224/3221226856/04.m3u8?accountinfo=tRq5adXMPA9yBy2DAMIaTD2venSJc9eog%2BDm8B%2Fsnps1wI2FVpfl5ZQwfr%2Bdtoa7Knbs%2Ftk5dSNqxf0gPjladuklJUT%2FHynvMVAISaHor5CjAwYvPjudXUXZu0MNxYV2dqQozxFE3ubHt2EYMx4IKxmfEuuTqSUg0xreoLdh%2BsZtdpZjgWkl7Gd4IUs%2FxBc1%3A20170128230138%3AUTC%2C291914713%2C178.149.161.79%2C20170128230138%2Curn%3AHuawei%3AliveTV%3AXTV100001846%2C7BDB39A708E7B03F45DBCCDE137C7499%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cpurko10%2C0%2Cpurko10%2C8qq9oY8SId6D5hQCjHHJc878Pck%3D%2C2%2C,END&GuardEncType=2
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS Reality" tvg-logo="https://pbs.twimg.com/profile_images/762517938809151488/abg4xlkp_200x200.jpg" group-title="FILM I SERIJE"CBS Reality
+ 
+#EXTINF:-1,Crime + Investigation
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/3895.ts
+#EXTINF:1,DaVinci Learning
+http://46.40.5.99:8000/davinchi_high
+#EXTINF:1,Discovery Channel
+http://lazalazarevic.dvrdns.org:8088/live?channelId=99&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:1,Discovery Channel (RS)
+http://91.185.99.146:60666/udp/239.1.5.3:5000
+#EXTINF:-1 tvg-id="ID Xtra" tvg-name="Discovery ID Xtra" tvg-logo="http://titaniptv.com/epg/logo/Discovery%20Xtra.png" group-title="Dokumentarni"Discovery ID Xtra
+ 
+#EXTINF:-1,Discovery Science (NE RADI UVIJEK)
+http://smarttv.tvviet.tv/live112/DScience.m3u8?u=serbianvip&p=c5955141060f48539e43aa1ad4f368f0107218b16c94dadcbfe9d6f5753b7002&token=KGJGQP5pF5R42TyM53LETw&channel=DScience&e=1999999999
+#EXTINF:-1Discovery Showcase HD
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png" group-title="DOKUMENTARNI"Discovery Turbo Extra
+ 
+#EXTINF:-1Discovery World
+ 
+#EXTINF:-1DocuBox HD
+ 
+#EXTINF:0,E! Entertainment
+http://91.185.99.146:60666/udp/239.1.13.2:5000
+#EXTINF:1,Fine Living
+ 
+#EXTINF:-1 tvg-name="Food Network",Food Network
+http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2084.ts
+#EXTINF:-1Fashion Box
+ 
+#EXTINF:-1,History Channel
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1154.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:1,History Channel 2
+http://212.200.112.94:8000/play/a011
+#EXTINF:1History Channel 2 HD
+ 
+#EXTINF:1ID Investigation Discovery
+ 
+#EXTINF:-1,Kitchen TV
+http://93.87.85.69/PLTV/88888888/224/3221226809/04.m3u8?accountinfo=QJHLCqdAMho%2FaI3dd0qh%2FjuQ2y9UVMJ%2FIi9iwfacWCEWFJFiSKOtj496vMYbUdgYaf%2F6QVdV7EUa5GDuihirtpzRpvblgISPkrTaI4XwxwpoeX9iljEoKLshqHpSHXbku1IZQid9BMXxElznD6QA2rzLAyEuia3eiFFRjpv5Gg69xMvUcajw2kWvUK%2BT2LSK%3A20161114224404%3AUTC%2C76091703%2C77.243.27.50%2C20161114224404%2Curn%3AHuawei%3AliveTV%3AXTV100003496%2C67EABC394D844E746D96352082A972EB%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CmAjsToRiOmAlTeRiSasTelI%2C0%2CkOiZDavIpjEpIzDa%2CMh%2FUXfkQueeDokOsHxOT41jC1IY%3D%2C2%2C,END&GuardEncType=2
+#EXTINF:-1Lifeholyday HD
+ 
+#EXTINF:0,Lov i Ribolov
+http://cdn.iptv.amis.net/ts/FISHUN/stream_iptv_2000k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,Chasse et Peche
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/637.m3u8|User-Agent=Online TV Android Clients
+#EXTINF:0,Nasa TV public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="http://titaniptv.com/epg/logo/Nat%20Geo%20HD.png" group-title="DOKUMENTARNI",National Geographic
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1223.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOKUMENTARNI"National Geographic HD (RS)
+ 
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="http://titaniptv.com/epg/logo/Nat%20Geo%20HD.png" group-title="DOKUMENTARNI",National Geographic (RS)
+http://212.200.112.94:8000/play/a00b
+#EXTINF:1 tvg-id="NatGeoWild" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Nat Geo Wild" tvg-logo="http://nextgen-iptv.com/logo/NatGeoWild_EU.png" group-title="DOKUMENTARNI",Nat Geo Wild
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1224.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:1Outdoor Channel HD
+ 
+#EXTINF:1,TLC
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1147.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1TravelXP HD
+ 
+#EXTINF:-1,Travel Channel
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1148.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,Viasat History
+http://91.185.99.146:60666/udp/239.1.5.12:5000
+#EXTINF:-1,Viasat Nature
+http://93.87.85.71/PLTV/88888888/224/3221226758/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2joUfyamh1BmrRRbOeoFBkMnKsSYZLAsQouB8HLlm4sv0fK3cK2TT5aIYI9VmMuNoxe%3A20161110065638%3AUTC,END&GuardEncType=2
+#EXTINF:-1Chasse et Peche
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]===== DJECA =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1,Hayatovci
+http://195.252.68.245:1935/KLIKTV_2/smil:pink92.mf.smil/playlist.m3u8
+#EXTINF:-1Disney Channel (HR)
+ 
+#EXTINF:1Disney Channel(RS)
+ 
+#EXTINF:1Disney XD
+ 
+#EXTINF:1Disney Junior
+ 
+#EXTINF:-1 tvg-id="" tvg-name="IDJ-KIDS" tvg-logo=""IDJ-KIDS
+ 
+#EXTINF:-1,Minimax
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1164.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,Mini TV
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1163.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:0,Boomerang
+http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Cartoon Network
+http://cdn.iptv.amis.net/ts/Cartoon/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,Cartoon World
+http://bit.ly/2rvaV7Q
+#EXTINF:-1,JimJam
+http://93.87.85.71/PLTV/88888888/224/3221226761/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2joUfyamh1BmrRRbOeoFBkMnJo%2B8nc8kNKioKS6CxkMEjbK3cK2TT5aIYI9VmMuNoxe%3A20161110065834%3AUTC,END&GuardEncType=2
+#EXTINF:-1,Nickelodeon (HR)
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1165.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,Nick Jr. (HR)
+http://reseller.xnetservice.net:10200/api/v1/iptv/channels/play/619/6733/qnQOb29MEWJ6vMMFoNnrHvpjlEf7zJ/606
+#EXTINF:-1Nickelodeon (RS)
+ 
+#EXTINF:-1Nick Jr. (RS)
+ 
+#EXTINF:-1Orlando Kids
+ 
+#EXTINF:-1,Pikaboo
+http://reseller.xnetservice.net:10200/api/v1/iptv/channels/play/619/6733/qnQOb29MEWJ6vMMFoNnrHvpjlEf7zJ/286
+#EXTINF:-1,Pink Kids
+http://195.252.68.245:1935/KLIKTV_2/smil:pink30.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Super Kids
+http://195.252.68.245:1935/KLIKTV_2/smil:pink52.mf.smil/playlist.m3u8
+#EXTINF:-1,Baby TV
+http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,Ultra
+http://91.185.99.146:60666/udp/239.1.11.5:5000
+#EXTINF:-1Mini Ultra
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV HD" tvg-logo="" group-title=""Duck TV
+ 
+#EXTINF:-1 tvg-name="TOGGO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_of_Toggo_Plus.png" group-title=""Toggo Plus
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]===== MAKEDONIJA =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1,H2
+http://h1.servemp3.com:1935/live/h1/hugo1.m3u8
+#EXTINF:-1Kanal 5
+ 
+#EXTINF:-1MRT 1 HD
+ 
+#EXTINF:-1MRT 2 HD
+ 
+#EXTINF:-1,Orbis TV
+http://185.20.36.201:8080/stream?sp=partners&channel=tvorbis&stream=1mb&b=6&player=m3u8&u=tvorbis&p=Tv0rbi$
+#EXTINF:-1 tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="MAKEDONIA",Plus TV
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1Sitel HD
+ 
+#EXTINF:-1,SKY Folk
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1,24 Vesti
+http://amsterdam1.dvrdns.org:16880/live?channelId=339&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]===== ITALIJA =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1,AXN (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/909.ts
+#EXTINF:-1,Caza y Pesca (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/904.ts
+#EXTINF:-1,Canale 5 HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6675.ts
+#EXTINF:-1,Canale 7 (ITA)
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,Canale 8 (ITA)
+rtmp://wms.shared.streamshow.it/canale8/canale8
+#EXTINF:-1,Carina TV (ITA)
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,Discovery HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6593.ts
+#EXTINF:-1,Discovery Sci HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6592.ts
+#EXTINF:-1,DMAX HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6586.ts
+#EXTINF:-1,Focus (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6588.ts
+#EXTINF:-1,History Lab (ITA)
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,Inter Channel (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6601.ts
+#EXTINF:-1,Italia 1 HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6677.ts
+#EXTINF:-1,Italia 2 (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6674.ts
+#EXTINF:-1,Italian Fishing (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6610.ts
+#EXTINF:-1 tvg-name="Juventus TV" tvg-logo="" group-title="",Juventus Channel (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6599.ts
+#EXTINF:-1,M F1 (ITA)
+http://185.231.160.42/651/3/index.m3u8
+#EXTINF:-1,M MotoGP (ITA)
+http://185.231.160.42/652/3/index.m3u8
+#EXTINF:-1,Mediaset Extra (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6673.ts
+#EXTINF:-1,Milan TV (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6600.ts
+#EXTINF:-1,National Geographic HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6596.ts
+#EXTINF:-1,NatGeo People HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6594.ts
+#EXTINF:-1,NatGeo Wild HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6595.ts
+#EXTINF:-1,Pesca&Caccia (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6609.ts
+#EXTINF:-1,RAI 1 (ITA)
+http://cdn.iptv.amis.net/ts/RAI1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,RAI 2 (ITA)
+http://cdn.iptv.amis.net/ts/RAI2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,RAI 4 (ITA)
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1,Rai Gulp (ITA)
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Movie (ITA)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai Premium (ITA)
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Scuola (ITA)
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1,Rai Sport+ HD (ITA)
+http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8
+#EXTINF:-1,Rai Yoyo (ITA)
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1,Rete 4 HD (ITA)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6676.ts
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]===== SLOVENIJA =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://nextgen-iptv.com/logo/AXN_HR.png" group-title="FILM I SERIJE",AXN (SLO)
+http://cdn.iptv.amis.net/ts/AXN/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Animal Planet (SLO)
+http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Brio (SLO)
+http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Carli TV (SLO)
+http://cdn.iptv.amis.net/ts/Carli/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Discovery Channel (SLO)
+http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Disney Channel (SLO)
+http://cdn.iptv.amis.net/ts/Disney/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Disney XD (SLO)
+http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Disney XD (SLO)
+http://cdn.iptv.amis.net/ts/Jetix/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,DIVA (SLO)
+http://cdn.iptv.amis.net/ts/Hallmark/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Ginx (SLO)
+http://cdn.iptv.amis.net/ts/Ginx/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Golica (SLO)
+http://cdn.iptv.amis.net/ts/GOLICA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="FILM I SERIJE",HBO (SLO)
+http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="FILM I SERIJE",HBO 2 (SLO)
+http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-id="HBO3" tvg-link="http://eog.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701" group-title="FILM I SERIJE",HBO 3 (SLO)
+http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Kanal A (SLO)
+http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Minimax (SLO)
+http://cdn.iptv.amis.net/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,National Geographic (SLO)
+http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Nat Geo Wild (SLO)
+http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,POP Kino (SLO)
+http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,POP Oto (SLO)
+http://cdn.iptv.amis.net/ts/PopOto/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,POP TV (SLO)
+http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ #EXTINF:0,Planet TV (SLO)
+http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,SK 1 (SLO)
+http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8|User-Agent=”AppleCoreMedia
+#EXTINF:-1,SK 2 (SLO)
+http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8|User-Agent=”AppleCoreMedia
+#EXTINF:-1,SK 3 (SLO)
+http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8|User-Agent=”AppleCoreMedia
+#EXTINF:0,SLO 1
+http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,SLO 2
+http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ #EXTINF:0,SLO 3
+http://cdn.iptv.amis.net/ts/Slo3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Sport TV 1 (SLO)
+http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Sport TV 2 (SLO)
+http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,TLC (SLO)
+http://cdn.iptv.amis.net/ts/DISCTLC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Travel Channel (SLO)
+http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0 tvg-ID="TV 1000" tvg-name="TV 1000" tvg-logo="http://tvprofil.net/img/kanali-logo/viasat-tv-1000.png" group-title="SLOVENIJA",TV 1000 (SLO)
+http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,TV3 Medias (SLO)
+http://cdn.iptv.amis.net/ts/PinkTV3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,VTV (SLO)
+http://cdn.iptv.amis.net/LIVE/VTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]===== DEUTSCHLAND =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1,13th Street HD (DE)
+http://185.231.160.42/782/1/index.m3u8
+#EXTINF:-1,ARD 1 HD (DE)
+http://185.231.160.42/828/1/index.m3u8
+#EXTINF:-1,Arte HD (DE)
+http://185.231.160.42/858/1/index.m3u8
+#EXTINF:-1Cinema HD (DE)
+ 
+#EXTINF:-1,Disney Cinemagic (DE)
+http://185.231.160.42/778/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",FOX HD (DE)
+http://185.231.160.42/489/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/daserste.png",Das Erste HD (DE)
+http://amsterdam2.dvrdns.org:14452/live?channelId=122&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/Disney_Channel_2014_HD.png"Disney Channel HD (DE)
+ 
+#EXTINF:-1 tvg-logo="http://kreka2.dvrdns.org:1011",DMAX HD (DE)
+http://amsterdam2.dvrdns.org:14452/live?channelId=278&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",History HD (DE)
+http://185.231.160.42/743/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/kabel1.png",Kabel 1 HD (DE)
+http://185.231.160.42/681/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/kika.png",Kika HD (DE)
+http://amsterdam2.dvrdns.org:14452/live?channelId=212&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1,National Geographic HD (DE)
+http://185.231.160.42/779/1/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD (DE)
+http://185.231.160.42/783/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/nickelodeon.png",Nickelodeon HD (DE)
+http://185.231.160.42/454/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",Nitro HD (DE)
+http://185.231.160.42/479/1/index.m3u8
+#EXTINF:-1NTV (DE)
+ 
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pro7.png"PRO 7 (DE)
+http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pro7.png"PRO 7 HD (DE)
+http://185.231.160.42/680/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",Pro 7 Maxx HD (DE)
+http://185.231.160.42/683/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/rtl.png",RTL HD (DE)
+http://amsterdam2.dvrdns.org:14452/live?channelId=125&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/rtl2de.png",RTL 2 HD (DE)
+http://185.231.160.42/466/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",RTL Crime HD (DE)
+http://185.231.160.42/483/1/index.m3u8
+#EXTINF:-1RTL Passion (DE)
+ 
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/sat1.png",SAT 1 HD (DE)
+http://185.231.160.42/497/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/sixx_hd.jpg",Sixx HD (DE)
+http://185.231.160.42/682/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",Sport 1 HD (DE)
+http://185.231.160.42/461/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",Sport 1+ HD (DE)
+http://185.231.160.42/746/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/superrtl.png"Super RTL HD (DE)
+ 
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",TLC HD (DE)
+http://185.231.160.42/471/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCHLAND",Tele 5 HD (DE)
+http://185.231.160.42/684/1/index.m3u8
+#EXTINF:-1 TNT HD (DE)
+http://185.231.160.42/747/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/vox.png",VOX HD (DE)
+http://185.231.160.42/464/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/zdf.png",ZDF HD (DE)
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]===== EX-YU MUZIKA =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1 tvg-name="Balkanika" tvg-logo="http://www.balkanika.tv/uf/logo_Balkanika.jpg" group-title="EX-YU",Balkanika (NE RADI UVIJEK)
+http://stream1.iptvsolution.net:80/live?channelId=192&uid=9277&deviceMac=00:1a:79:9b:51:20
+#EXTINF:-1 tvg-name="Balkanika" tvg-logo="http://www.balkanika.tv/uf/logo_Balkanika.jpg" group-title="EX-YU",Balkanika (L2)
+http://stream:starperkish@85.14.32.15:8003/udp/239.100.20.18:8888
+#EXTINF:-1 tvg-ID="BNMusic" tvg-name="BN Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/BN_Music_logo.png" group-title="EX-YU",BN Music (NE RADI UVIJEK)
+http://storm.iptvsolution.net:80/live?channelId=20&uid=9277&deviceMac=00:1a:79:9b:51:20
+#EXTINF:-1,Bravo Music
+http://195.252.68.245:1935/KLIKTV_2/smil:pink43.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk TV Bujrum ex-Yu" tvg-logo="" group-title="EX-YU",Bujrum TV
+http://amsterdam3.dvrdns.org:15080/live?channelId=283&uid=73&deviceUser=zekasrecko&devicePass=gSWdep6F
+#EXTINF:-1 tvg-logo="http://pink-rs.com/media/image/portal-media-f80dcccb-f663-eec4-5adc-dfffcedd44ba/720" group-title="EX-YU",City Play
+http://195.252.68.245:1935/KLIKTV_2/smil:pink35.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CMC" tvg-logo="http://tvprofil.net/img/kanali-logo/CMC_TV_logo.png" group-title="HRVATSKA",CMC
+http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1DMC TV
+ 
+#EXTINF:-1 tvg-ID="DMSAT" tvg-name="DM Sat" tvg-logo="http://www.dmsat.tv/download/DMSAT_LOGO_3D_BIG.jpg" group-title="EX-YU",DM SAT
+http://cdn.iptv.amis.net/LIVE/DMSAT/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1 tvg-ID="Grand Narodna TV" tvg-name="Grand Narodna TV" tvg-logo="https://pbs.twimg.com/profile_images/641182312206594048/dE-O-ye4.png" group-title="EX-YU",Grand
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/981.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-name="Grand 2" tvg-logo="https://telemach.si/Picture/11169/jpeg/grand_2_tv.jpg" group-title="EX-YU",Grand 2
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/982.ts|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="HayatFolk" tvg-name="Hayat Folk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Logo_of_Hayat_Folk_TV.png" group-title="EX-YU",Hayat Folk
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/988.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="HayatMusic" tvg-name="Hayat Music" tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/hayat_music.png" group-title="EX-YU",Hayat Music
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/989.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-name="IDJ TV" tvg-logo="http://www.idjdigital.com/sr/img/services/idjtv.jpg"ITV
+ 
+#EXTINF:-1,Jugoton
+http://80.80.58.167:8070/hls/jugoton.m3u8
+#EXTINF:-1 tvg-ID="KCN 2" tvg-name="KCN 2" tvg-logo="https://ulango.tv/uploads/channels/7164/logo_k-cn%20music%202.png" group-title="EX-YU",KCN Music 2
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1161.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="KCN 3" tvg-name="KCN 3" tvg-logo="https://totaltv.tv/oec/images/tv_channels/e51742b4f3b50692d2cb023806964f46.png" group-title="EX-YU",KCN Svet+ 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1,Mir TV HD
+http://178.132.6.97/AkcijaTV/tracks-v1a1/index.m3u8|User-Agent="Lavf
+#EXTINF:-1Moj Kanal HD
+ 
+#EXTINF:-1Music Primera
+ 
+#EXTINF:0 Narodna TV
+ 
+#EXTINF:-1 tvg-name="Naša Party" tvg-logo="http://static.mts.rs/tv/Logoi%20TV/nasa-party.png?d=False&h=635633146782000000" group-title="EX-YU"Nasa TV Party
+ 
+#EXTINF:-1,Pink Folk
+http://195.252.68.245:1935/KLIKTV_2/smil:pink14.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Folk 2
+http://195.252.68.245:1935/KLIKTV_2/smil:pink18.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Hits
+http://195.252.68.245:1935/KLIKTV_2/smil:pink34.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Hits 2
+http://195.252.68.245:1935/KLIKTV_2/smil:pink12.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Koncert
+http://195.252.68.245:1935/KLIKTV_2/smil:pink13.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Music
+http://195.252.68.245:1935/KLIKTV_2/smil:pink26.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Music 2
+http://195.252.68.245:1935/KLIKTV_2/smil:pink11.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink & Roll
+http://195.252.68.245:1935/KLIKTV_2/smil:pink16.mf.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png",RTV Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1TOP Music
+ 
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/eeb3807ae78f23049a192045ff1a1659.jpeg" group-title="EX-YU",Top Sound TV
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+#EXTINF:-1TV Diskos
+ 
+#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/VIP_TV_LOGO_FULL.png" group-title="EX-YU"Vip TV HD
+ 
+#EXTINF:-1DeeJay TV
+ 
+ 
+#EXTINF:-1,[COLOR green]===== VIJESTI =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1,Al Jazeera Balkans
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/986.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+ 
+ 
+#EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
+#EXTINF:-1,N1 (RS) HD
+http://best.str.n1info.com:8080/stream?sp=n1info?channel=n1hdsrb?stream=hd?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0
+#EXTVLCOPT:http-user-agent=Linux-Android 5.0.1
+#EXTINF:-1,N1 (HR) HD
+http://best.str.n1info.com:8080/stream?channel=n1hdhr?stream=hd?u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,Pink 3 Info
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1180.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:0,CNN International
+http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1Euronews
+ 
+ 
+#EXTINF:-1,[COLOR green]===== MUZIKA =====[/COLOR]
+skip
+ 
+ 
+#EXTINF:-1,1 HD
+http://185.231.160.42/158/3/index.m3u8
+#EXTINF:-1360Tune Box
+ 
+#EXTINF:-1,4 music
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
+#EXTINF:0,Bridge TV
+http://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
+#EXTINF:0,Bridge TV Dance
+http://93.91.113.8:9999/play/a09a
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1Chart Show Dance
+ 
+#EXTINF:-1City TV
+ 
+#EXTINF:-1,Clubbing TV
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8
+#EXTINF:-1Clubland
+ 
+#EXTINF:-1,Company TV
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+#EXTINF:-1,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://185.231.160.42/459/3/index.m3u8
+#EXTINF:0,Djing hot
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0,Djing Ibiza HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1,Eska Best Music TV
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
+#EXTINF:-1,Eska Party TV
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
+#EXTINF:-1,Eska Rock TV
+http://stream.cdn.smcloud.net/eskarocktv-p/stream1/playlist.m3u8
+#EXTINF:-1Fan TV
+ 
+#EXTINF:-1,Go TV
+rtmp://nstream17.gotv.at:1938/live//gotvlive
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:0,Indies Live
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0,Juce TV
+http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
+#EXTINF:0,Kronehit
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
+#EXTINF:-1,M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1Magic TV
+ 
+#EXTINF:-1,MI Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:0Mooz Dance HD
+ 
+#EXTINF:0,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1MTV FHD
+ 
+#EXTINF:0,MTV Adria
+http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1MTV Base
+ 
+#EXTINF:-1MTV Classic
+ 
+#EXTINF:0,MTV Dance
+http://91.149.172.100:80/channel?id=20&u=demo&p=demo
+#EXTINF:0,MTV Hits
+http://persik.by/stream/1417/252987/10208.m3u8
+#EXTINF:-1MTV Latino Hits
+ 
+#EXTINF:0,MTV Live HD
+http://91.149.172.100:80/channel?id=4&u=demo&p=demo
+#EXTINF:0,MTV Rocks
+http://persik.by/stream/1417/252987/10227.m3u8
+#EXTINF:-1,Music Box
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1,Music Box ua
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0Music Channel
+ 
+#EXTINF:0,Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,Music Choice Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:0,Music Choice Pop Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:0,Music Choice Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:0,Music Choice Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:0,Music Choice Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:0,Music Choice Today's Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:0,Music Choice Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:0,Music Vox TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:0,Music Vox TV Old's Cool
+http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
+#EXTINF:0,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1,O!2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:0,One By 2 HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Otto FM TV
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:0,VH1
+http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,VH1 Classic
+http://cdn.iptv.amis.net/ts/VH1CLA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Pilatus Beatz TV
+https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,Radio 105
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,Tigo Une
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1The Voice
+ 
+#EXTINF:0,Top City Hits
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
+#EXTINF:-1,VeVO HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/334.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,PT-VeVO HD 2
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/331.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,PT-VeVO HD 3
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/328.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,VibeeTV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0,Xite Base
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:0,Xite Pop
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+ 
+ 
+#EXTINF:-1,[COLOR green]===== F I L M O T E K A =====[/COLOR]
+skip
+#EXTINF:-1,[COLOR yellow]===== SINKRONIZIRANI CRTICI =====[/COLOR]
+skip
+ 
+#EXTINF:-1 tvg-logo="http://zevalo.net/wp-content/uploads/2012/11/maxresdefault.jpg",Madagaskar (2005) HR Sink.
+http://movie.bossna-caffe.com/CrtaniAdmin/8726.avi
+#EXTINF:-1 tvg-logo="http://mummyendeavours.co.uk/wp-content/uploads/2016/04/QUAD-Fall_AW_SC_Crusoe_Art-9-3-1024x773.jpg",Robinson Crusoe (2016) HR Sink.
+http://movie.bossna-caffe.com/CrtaniAdmin/8653.avi
+#EXTINF:-1 tvg-logo="http://os-jzorica-dugo-selo.skole.hr/upload/os-jzorica-dugo-selo/images/newsimg/896/Image/spasavanje_djeda_mraza.jpg",Spašavanje Djeda Mraza (2014) HR Sink.
+http://movie.bossna-caffe.com/CrtaniAdmin/8662.avi
+ 
+ 
+#EXTINF:-1,[COLOR yellow]===== DOMACI FILMOVI =====[/COLOR]
+skip
+ 
+#EXTINF:-1 tvg-logo="http://www.ferata.hr/wp-content/uploads/2016/09/zg80-poster-2.jpg"Zg80
+ 
+ 
+#EXTINF:-1,[COLOR yellow]===== FILMOVI =====[/COLOR]
+skip
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/filmguide/images/9/9d/Baby-driver-cinema-poster.jpg/revision/latest?cb=20170911090026",Baby Driver (2017) HD
+http://dl.dibaup.ir/Movie/Foreign/1396/07/Baby_Driver_2017_720p_nItRo_(DibaMovie).mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DNJ0_R0XkAA-ykI.jpg",Geostorm (2017) HD
+http://dl.hastidl.net/remotes/Geostorm.2017.HDRip.720p.nItRo.mkv
+#EXTINF:-1 tvg-logo="http://cover.box3.net/newsimg/dvdmov/max1391610636-frontback-cover.jpg",Captain Phillips (2013) 4K
+http://dl.my-film.in/reza/film/Captain.Phillips.2013.2160p.4K.UltraHD.WEB-DL.DD5.1.x264-[My-Film].mkv
+#EXTINF:-1 tvg-logo="http://www.bitfun.com/dvdcovers/La_La_Land_2016.jpg",La La Land (2016) 1080p
+http://dl.my-film.in/s1/Movie/La.La.Land.2016/La.La.Land.2016.1080p.BluRay.x265.HEVC.28318254.mkv
+
 
 #EXTINF:-1 tvg-logo=https://goo.gl/ofVjvQ ,NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
