@@ -2,8 +2,8 @@
 
 
 
-
-
+#EXTINF:0,Face TV
+http://178.132.6.97/FACETV/index.m3u8
 #EXTINF:0,CineStarSRB
 http://92.60.224.62:3014/udp/239.1.1.18:22018
 #EXTINF:0,CineStarAction
