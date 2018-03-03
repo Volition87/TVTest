@@ -1,7 +1,7 @@
 #EXTINF:1 group-title=”EX-YU”,
 
-
-
+#EXTINF:0,Prva TV
+http://ott2.orion.rs:1935/livelowedge2/prva.stream/playlist.m3u8?v=1&k=0&token=2f0211f3726e2965d8a974aa59b262219a41978a61280a4c753e96b148d1afc7&ak=3570447&time=1519107229117
 #EXTINF:0,Face TV
 http://178.132.6.97/FACETV/index.m3u8
 #EXTINF:0,CineStarSRB
