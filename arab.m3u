@@ -1,3 +1,51 @@
-#EXTM3U
- #EXTINF:1,N1BiH1
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:0 user-agent="Star Wars",N1 rs
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+
+#EXTINF:0 user-agent="Star Wars",N1 bh
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+
+#EXTINF:0 user-agent="Star Wars",N1 hr
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 group-title="HR_SR_BIH", KURIR TV
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", Red tv
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+
+#EXTINF:-1 group-title="HR_SR_BIH", Trend TV Karlovac
+rtmp://185.62.75.22:1935/trend/myStream
+#EXTINF:-1 group-title="HR_SR_BIH", Z1
+http://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", Osjecka Tv
+http://46.240.128.74:5555
+#EXTINF:-1 group-title="HR_SR_BIH", MARY TV
+https://2-fss-1.streamhoster.com/pl_122/amlst:200012-111298/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", Prigorska TV
+http://62.75.152.125:10/PRIGORSKA-TV/STUDIO-ZELINA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", Radio Student
+rtmpt://tv2.carnet.hr:80/student/one
+#EXTINF:-1 group-title="HR_SR_BIH", CRO TV
+rtmp://92.204.53.152:1935/crotv/televizijahrvatskedijaspore
+#EXTINF:-1 group-title="HR_SR_BIH", Hrvatski radio Frankfurt
+http://92.204.53.152:85/croradio/croradio/index.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", BAP RTV Backa Palanka
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/chunklist_w2087944704.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", LESKOVAC TV
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1 group-title="HR_SR_BIH", MIS
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w558422854.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", PI
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1209443471.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", PRUGA TV LAJKOVAC
+http://87.237.205.121/hls/pruga.m3u8
+#EXTINF:-1 group-title="HR_SR_BIH", RT Kosovo 2
+rtmp://84.22.56.10:1935/rtk2stream/rtk2.stream
+#EXTINF:-1 group-title="HR_SR_BIH", SANDZAK
+http://46.240.128.178:4444/STVHD
+#EXTINF:-1 group-title="HR_SR_BIH", Stara Pazova
+rtmp://bk.ddstream.info:1935/mylive/rtvsp/rtvsp
+#EXTINF:-1 group-title="HR_SR_BIH", Tesla Vision
+http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
